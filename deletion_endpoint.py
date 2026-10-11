@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from flask import Flask, jsonify, request
 load_dotenv()
 app = Flask(__name__)
-verification_token=os.getenv("EBAY_VERFICATION_TOKEN")
+verification_token=os.getenv("EBAY_VERIFICATION_TOKEN")
 endpoint_url=os.getenv("EBAY_ENDPOINT_URL")
 @app.route("/ebay/deletion", methods=["GET", "POST"])
 def ebay_deletion():
