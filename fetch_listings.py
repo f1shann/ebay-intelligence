@@ -28,6 +28,5 @@ def searchlistings(token,query):
 if __name__=="__main__":
         query=input("What is your search")
         token=get_token()
-        searchlistings(token,query)
-        
+        searchlistings(token,query)        
 
