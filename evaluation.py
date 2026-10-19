@@ -31,7 +31,7 @@ def removeblacklists(data):
         if any(has_phrase(words,p) for p in phraseblacklist):
             continue
         filteredlistings.append(item)
-        data["itemSummaries"]=filteredlistings
+    data["itemSummaries"]=filteredlistings
     return data
 def deviation(median,price):
     if median==0:

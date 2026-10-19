@@ -1,7 +1,6 @@
 import os 
 import base64
 import requests
-import statistics
 from dotenv import load_dotenv
 load_dotenv()
 def get_token():
@@ -15,11 +14,11 @@ def get_token():
         url="https://api.ebay.com/identity/v1/oauth2/token"
         response=requests.post(url, headers=headers, data=body)
         if response.status_code != 200:
-                print("Token request failed:", response.status_code, response.txt)
+                print("Token request failed:", response.status_code, response.text)
                 return None
         data=response.json()
         return data["access_token"]
-def searchlistings(token,query):
+def search_listings(token,query):
         search_url = "https://api.ebay.com/buy/browse/v1/item_summary/search"
         search_headers= {"Authorization": "Bearer " + token, "X-EBAY-C-MARKETPLACE-ID": "EBAY_GB"}
         search_params = {"q": query}
