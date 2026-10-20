@@ -1,8 +1,14 @@
 import statistics
+def totalcost(item):
+    price=float(item["price"]["value"])
+    shipping=0
+    if item.get("shippingOptions"):
+        shipping=float(item["shippingOptions"][0]["shippingCost"]["value"])
+    return price+shipping
 def listprices(data):
     prices=[]
     for item in data["itemSummaries"]:
-        prices.append(float(item["price"]["value"]))
+        prices.append(totalcost(item))
     prices.sort()
     return prices
 def has_phrase(words,phrase):
