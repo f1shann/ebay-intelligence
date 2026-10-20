@@ -21,8 +21,8 @@ def remove_outliers(prices):
     prices=[p for p in prices if lowerbound <=p<=upperbound]
     return prices
 def removeblacklists(data):
-    wordblacklist = ["faulty", "broken", "cracked", "locked", "untested", "as-is", "asis", "defect", "defective", "damaged", "repair", "repairs", "spares", "scrap", "junk", "frp", "mdm", "bypass", "dummy", "replica", "clone", "fake", "counterfeit", "housing", "shell", "body", "digital", "download", "pdf", "poster", "print", "wanted", "demo"]
-    phraseblacklist = [["box", "only"], ["empty", "box"], ["case", "only"], ["cover", "only"], ["body", "only"], ["screen", "protector"], ["charger", "only"], ["cable", "only"], ["for", "parts"], ["parts", "only"], ["spare", "parts"], ["spares", "or", "repair"], ["not", "working"], ["does", "not", "work"], ["needs", "repair"], ["not", "tested"], ["read", "description"], ["read", "desc"], ["read", "before", "buying"], ["icloud", "lock"], ["activation", "lock"], ["blacklisted", "imei"], ["digital", "delivery"], ["digital", "copy"], ["job", "lot"], ["bundle", "of"], ["display", "model"]]
+    wordblacklist = ["faulty", "case", "broken", "cracked", "locked", "untested", "as-is", "asis", "defect", "defective", "damaged", "repair", "repairs", "spares", "scrap", "junk", "frp", "mdm", "bypass", "dummy", "replica", "clone", "fake", "counterfeit", "housing", "shell", "body", "digital", "download", "pdf", "poster", "print", "wanted", "demo"]
+    phraseblacklist = [["box", "only"], ["empty", "box"], ["cover", "only"], ["body", "only"], ["screen", "protector"], ["charger", "only"], ["cable", "only"], ["for", "parts"], ["parts", "only"], ["spare", "parts"], ["spares", "or", "repair"], ["not", "working"], ["does", "not", "work"], ["needs", "repair"], ["not", "tested"], ["read", "description"], ["read", "desc"], ["read", "before", "buying"], ["icloud", "lock"], ["activation", "lock"], ["blacklisted", "imei"], ["digital", "delivery"], ["digital", "copy"], ["job", "lot"], ["bundle", "of"], ["display", "model"]]
     filteredlistings=[]
     for item in data["itemSummaries"]:
         words = [w.strip(".,()!?:;\"'") for w in item["title"].lower().split()]

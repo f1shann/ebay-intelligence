@@ -1,4 +1,5 @@
 import os 
+import sys
 import json
 from fetch_listings import get_token, search_listings
 from evaluation import removeblacklists,median,listprices,remove_outliers,deviation,cv
@@ -7,9 +8,10 @@ def find_deals(query):
         token=get_token()
         data=search_listings(token,query)
     else:
-        print("no keys found using sample data")
-        with open("sample_data.json") as f:
-            data=json.load(f)
+        print("no keys found, using sample data (only covers 'iphone 15 pro max')")
+        base_dir = getattr(sys, "_MEIPASS", os.path.dirname(os.path.abspath(__file__)))
+        with open(os.path.join(base_dir, "sample_data.json")) as f:
+            data = json.load(f)
     data=removeblacklists(data)
     prices=remove_outliers(listprices(data))
     if len(prices)==0:
