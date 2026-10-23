@@ -2,6 +2,7 @@ import os
 import base64
 import requests
 from dotenv import load_dotenv
+import json
 load_dotenv()
 def get_token():
         app_id=os.getenv("APP_ID")
@@ -24,8 +25,35 @@ def search_listings(token,query):
         search_params = {"q": query}
         search_response= requests.get(search_url, headers=search_headers, params=search_params)
         return search_response.json()
+def searchsoldlistings(keyword,itemCondition:str="any"):
+        apify_token=os.getenv("APIFY_API_TOKEN")
+        url= f"https://api.apify.com/v2/acts/caffein.dev~ebay-sold-listings/run-sync-get-dataset-items?token={apify_token}"
+        inputs={
+                "keywords":keyword,
+                "categoryId":"9355",
+                "subcategoryId":"",
+                "daysToScrape":30,
+                "count":100,
+                "ebaySite":"ebay.co.uk",
+                "sortOrder":"endedRecently",
+                "minPrice":150,
+                "maxPrice":10000,
+                "itemLocation":"default",
+                "itemCondition":itemCondition
+                }
+        try:
+                response=requests.post(url,json=inputs,timeout=120)
+                response.raise_for_status()
+                return response.json()
+        except requests.exceptions.RequestException as x:
+                print(f"Apify Error: {x}")
+                return[]
 if __name__=="__main__":
-        query=input("What is your search")
-        token=get_token()
-        search_listings(token,query)        
-
+        query=[input("What is your search")]
+        condition=input("What condition")
+        results=searchsoldlistings(query,condition)
+        if results:
+                with open("sold_data.json","w",encoding="utf-8") as f:
+                        json.dump(results,f,indent=4)
+        else:
+                print("No results")
