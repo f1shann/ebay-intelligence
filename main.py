@@ -2,7 +2,7 @@ import os
 import sys
 import json
 from fetch_listings import get_token, search_listings
-from evaluation import removeblacklists,totalcost,median,listprices,remove_outliers,deviation,cv
+from evaluation import removeblacklists,totalcost,median,listprices,remove_outliers,deviation,cv,filter_model
 def find_deals(query):
     if os.getenv("APP_ID"):
         token=get_token()
@@ -13,6 +13,7 @@ def find_deals(query):
         with open(os.path.join(base_dir, "sample_data.json")) as f:
             data = json.load(f)
     data=removeblacklists(data)
+    data=filter_model(data,query)
     prices=remove_outliers(listprices(data))
     if len(prices)==0:
         print("no listings left after filtering")

@@ -5,6 +5,15 @@ def totalcost(item):
     if item.get("shippingOptions"):
         shipping=float(item["shippingOptions"][0]["shippingCost"]["value"])
     return price+shipping
+def filter_model(data,query):
+    numbers=[w for w in query.lower().split() if w.isdigit()]
+    kept=[]
+    for item in data["itemSummaries"]:
+        title_words=[w.strip(".,()!?:;\"'") for w in item["title"].lower().split()]
+        if all(n in title_words for n in numbers):
+            kept.append(item)
+    data["itemSummaries"]=kept
+    return data
 def listprices(data):
     prices=[]
     for item in data["itemSummaries"]:
