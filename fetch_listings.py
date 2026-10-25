@@ -3,6 +3,7 @@ import base64
 import requests
 from dotenv import load_dotenv
 import json
+from evaluation import conditionfix
 load_dotenv()
 def get_token():
         app_id=os.getenv("APP_ID")
@@ -44,14 +45,34 @@ def searchsoldlistings(keyword,itemCondition:str="any"):
         try:
                 response=requests.post(url,json=inputs,timeout=120)
                 response.raise_for_status()
-                return response.json()
+                response=response.json()
+                removals=[]
+                for i in range(len(response)):
+                        item=response[i]
+                        cleaneditem={
+                                "title":item["title"],
+                                "totalPrice":item["totalPrice"],
+                                "endedAt":item["endedAt"],
+                                "url":item["url"],
+                                "categoryId": item["categoryId"],
+                                "condition": conditionfix(item["conditionId"])
+                                }     
+                        if cleaneditem["condition"] is None:
+                                removals.append(i)
+                        else:
+                                response[i]=cleaneditem
+                removals.reverse()
+                for x in removals:
+                        response.pop(x)
+                return response
         except requests.exceptions.RequestException as x:
                 print(f"Apify Error: {x}")
                 return[]
 if __name__=="__main__":
         query=[input("What is your search")]
         condition=input("What condition")
-        results=searchsoldlistings(query,condition)
+        categoryId=input("What CategoryID(phones=9355)")
+        results=searchsoldlistings(categoryId,query,condition)
         if results:
                 with open("sold_data.json","w",encoding="utf-8") as f:
                         json.dump(results,f,indent=4)
