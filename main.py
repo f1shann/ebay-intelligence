@@ -37,7 +37,7 @@ def find_deals(query):
         d=deviation(base,cost)
         p=profit(base,cost,weight,length,width,height)
         if d>10 and p>40:
-            print(item["title"],",total cost:", cost,",deviation:", round(d,1),",profit:",p,item["itemWebUrl"])
+            print(item["title"],",total cost(including shipping):", round(cost,2),",deviation:", round(d,1),",profit:",round(p,2),item["itemWebUrl"])
 def main():
     print("Marketplace Intelligence started.")
     while True:
