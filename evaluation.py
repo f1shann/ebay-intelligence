@@ -1,4 +1,17 @@
 import statistics
+import re
+def sold_to_active(sold_list):
+    items=[]
+    for item in sold_list:
+        items.append({
+            "title":item["title"],
+            "price":{"value":str(item["totalPrice"])},
+            "itemWebUrl":item["url"],
+            "endedAt":item["endedAt"],
+            "categoryId":item["categoryId"],
+            "condition":item["condition"]
+        })
+    return {"itemSummaries":items}
 def totalcost(item):
     price=float(item["price"]["value"])
     shipping=0
@@ -56,3 +69,31 @@ def cv(prices):
     if len(prices)<2:
         return 0
     return statistics.stdev(prices) / statistics.mean(prices)*100
+def filter_variants(data):
+    kept=[]
+    for item in data["itemSummaries"]:
+        if re.search(r"\d/\d", item["title"]) is None:
+            kept.append(item)
+    data["itemSummaries"]=kept
+    return data
+def filter_variantsnew(data):
+    kept=[]
+    for item in data["itemSummaries"]:
+        if re.search(r"\d/\d|\d+\s?(?:gb|tb)\s*/", item["title"], re.I) is None:
+            kept.append(item)
+    data["itemSummaries"]=kept
+    return data
+def conditionfix(conditionId):
+    if conditionId is None:
+        return None
+    if conditionId in (1000,1750):
+        return "New"
+    if conditionId==1500:
+        return "Opened"
+    if conditionId in (2750,2990,4000,3000):
+        return "Used"
+    if conditionId in (2000, 2010, 2020, 2030, 2500):
+        return "Refurbished"
+    if conditionId in (5000, 6000, 7000):
+        return None
+    return None
