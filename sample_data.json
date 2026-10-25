@@ -1,14 +1,13 @@
 {
   "href": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=iphone+15+pro+max&limit=50&offset=0",
-  "total": 14410,
+  "total": 14172,
   "next": "https://api.ebay.com/buy/browse/v1/item_summary/search?q=iphone+15+pro+max&limit=50&offset=50",
   "limit": 50,
   "offset": 0,
   "itemSummaries": [
     {
-      "itemId": "v1|166990323164|466701912047",
-      "title": "Apple iPhone 15 Pro Max - All Sizes - Unlocked - All Color - Very Good Condition",
-      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=166990323164",
+      "itemId": "v1|800836897727|0",
+      "title": "iPhone 15 Pro Max Unlocked Black 512GB Good Condition 83% battery health",
       "leafCategoryIds": [
         "9355"
       ],
@@ -23,90 +22,92 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/BAQAAOSwt8Nm8-wb/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/Y5UAAeSw4dRqw80t/s-l225.jpg"
       },
       "price": {
-        "value": "519.99",
+        "value": "363.70",
         "currency": "GBP"
       },
-      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C166990323164%7C466701912047",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C800836897727%7C0",
       "seller": {
-        "username": "phonesdirect_com",
-        "feedbackPercentage": "99.3",
-        "feedbackScore": 15177,
-        "sellerAccountType": "BUSINESS"
+        "username": "tijdavi0",
+        "feedbackPercentage": "96.2",
+        "feedbackScore": 26,
+        "sellerAccountType": "INDIVIDUAL"
       },
-      "marketingPrice": {
-        "originalPrice": {
-          "value": "1199.00",
-          "currency": "GBP"
-        },
-        "discountPercentage": "57",
-        "discountAmount": {
-          "value": "679.01",
-          "currency": "GBP"
-        },
-        "priceTreatment": "LIST_PRICE"
-      },
-      "condition": "Very Good - Refurbished",
-      "conditionId": "2020",
+      "condition": "Used",
+      "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/BAQAAOSwt8Nm8-wb/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Y5UAAeSw4dRqw80t/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "0.00",
+            "value": "11.95",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/166990323164?_skw=iphone+15+pro+max&hash=item26e1661ddc:g:BAQAAOSwt8Nm8-wb",
+      "epid": "10062774544",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/800836897727?_skw=iphone+15+pro+max&hash=itemba75994bbf:g:Y5UAAeSw4dRqw80t",
       "itemLocation": {
-        "postalCode": "PO15***",
+        "postalCode": "SR4***",
         "country": "GB"
       },
+      "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/yiIAAeSwkSpqThHv/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/WDcAAeSw0T5qw80t/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/WXIAAeSwBCFqThHv/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/z0wAAeSwMoFqw80t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/x0IAAeSwoj5qw80s/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/nVIAAeSw~XZqw80t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K4sAAeSwynBqw80t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZBIAAeSwp0Jqw80t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NLgAAeSwbkVqw80t/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7uwAAeSw-vZqxM8m/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "166990323164",
+      "legacyItemId": "800836897727",
       "availableCoupons": false,
-      "itemOriginDate": "2024-09-25T14:31:30.000Z",
-      "itemCreationDate": "2024-09-25T14:31:30.000Z",
+      "itemOriginDate": "2026-10-25T13:33:53.000Z",
+      "itemCreationDate": "2026-10-25T13:33:53.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|920047051913|666815507075",
-      "title": "Shockproof Magnetic Matte Case For iPhone 18 Pro Max 17 16 15 14 13 12 Plus",
-      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=920047051913",
+      "itemId": "v1|407315422655|0",
+      "title": "iPhone 15 Pro Max \u2013 86% Battery Health \u2013 Unlocked-(READ DESCRIPTION)",
       "leafCategoryIds": [
-        "20349"
+        "9355"
       ],
       "categories": [
         {
-          "categoryId": "20349",
-          "categoryName": "Cases, Covers & Skins"
-        },
-        {
-          "categoryId": "9394",
-          "categoryName": "Mobile Phone Accessories"
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
         },
         {
           "categoryId": "15032",
@@ -114,89 +115,83 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/yzcAAeSws~Vq0uKK/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/Q5IAAeSw8pRq3hsq/s-l225.jpg"
       },
       "price": {
-        "value": "5.59",
+        "value": "343.30",
         "currency": "GBP"
       },
-      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C920047051913%7C666815507075",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C407315422655%7C0",
       "seller": {
-        "username": "ks-sales1",
-        "feedbackPercentage": "98.9",
-        "feedbackScore": 2996,
-        "sellerAccountType": "BUSINESS"
+        "username": "ubpe48",
+        "feedbackPercentage": "88.9",
+        "feedbackScore": 29,
+        "sellerAccountType": "INDIVIDUAL"
       },
-      "condition": "New",
-      "conditionId": "1000",
+      "condition": "Used",
+      "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/yzcAAeSws~Vq0uKK/s-l960.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Q5IAAeSw8pRq3hsq/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "0.00",
+            "value": "11.95",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z",
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
           "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
-        "FIXED_PRICE"
+        "FIXED_PRICE",
+        "BEST_OFFER"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/920047051913?_skw=iphone+15+pro+max&hash=itemd63713e489:g:yzcAAeSws~Vq0uKK&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mIyP9Calo2HMeHdAyzwdZqZGxs5jYRw2wmV2XL1n2LfHCK%2F%2Bnrppx4Stm7WN6FoJ3HZVygR27sSnoOK3t8IRrPH9qVedD6Y9PE1qkjZ1sFaFJJBlOOTDLyyDxzb98AoHUHKsjLeawDdrl%2F906xn4nqs4ThxOfoA%2BenXmZVLKWFTcqaxosj7C3lWh%2FdR%2FWVF%2BRN3RMMPOm3P%2BIeKVsPlVltD4pJI%2FslXlj5xwG2Cm29P%2FeTRYWs%2BTrFVeK49t0XlEu1M1R6oTn3oZKbIhdQ1omQ2%2Bf%2Fpa4ki5lGjKSZZ0ZbDg%3D%3D",
+      "epid": "17062769272",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/407315422655?_skw=iphone+15+pro+max&hash=item5ed5e41dbf:g:Q5IAAeSw8pRq3hsq&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n42xd4Kul1HIq2mv7l7QrwLe1Cv3YqgbMqSq6pkyDOEvn2m9kNPi5gLKIoWo2psz09PerBps2%2FXwX2lEmb9fKDkXcXzXjw49%2BmSbemI6mwe2nVaun60iEuHEnSv028GelX%2Bw3iBMiTosLMZ2AmQ06VG97RPgQ5t3IvS%2BFNsQ%2BFwYZr964uLDtPvNfM%2FXP8JhEdR0hiPZ0yQE8yGVtxAj4Ejx6uE%2BBhQjyEKr3lhqSTJwU7Kpyq%2FNIAUDtuYgLqnS3ZDp3q6wyZElBeXTNfOJ2T8anvE2hj9FLp%2B49OyOjUzA%3D%3D",
       "itemLocation": {
-        "postalCode": "B6***",
+        "postalCode": "LE5***",
         "country": "GB"
       },
+      "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/uc4AAeSwT9tq0uKx/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Q2gAAeSwCXhq3hss/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/fooAAeSw9Upq0uT8/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/QmwAAeSwXgJq3hsr/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/m34AAeSwsm5q0uT8/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RVIAAeSwkEFq3hsr/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/8KYAAeSwq~dq0uT8/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RH4AAeSwWFpq3hsr/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/8YoAAeSwBzBq0uT8/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Q84AAeSwxoBq3hss/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/4g8AAeSwY5Zq0uJ7/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RIcAAeSw6s9q3hst/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/RjEAAeSwcdxq0uJ7/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/UD4AAeSwY95q0uJ7/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RC4AAeSw2H5q3hst/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "unitPricingMeasure": "Unit",
-      "unitPrice": {
-        "value": "5.59",
-        "currency": "GBP"
-      },
-      "legacyItemId": "920047051913",
+      "legacyItemId": "407315422655",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-17T03:11:07.000Z",
-      "itemCreationDate": "2026-10-17T03:11:07.000Z",
+      "itemOriginDate": "2026-10-25T15:09:20.000Z",
+      "itemCreationDate": "2026-10-25T15:09:20.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": true,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|820256991535|0",
-      "title": "Genuine iPhone 15 Pro Max OLED Screen - Pull Out - Non- collaborative",
+      "itemId": "v1|406855838870|0",
+      "title": "Genuine iPhone 15 Pro Max Diagnosable Soft OLED & Touch Screen + Adhesive",
       "leafCategoryIds": [
         "43304"
       ],
@@ -211,31 +206,113 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/N~8AAeSwoupq1pn4/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/c-oAAeSwmOJq2z9~/s-l225.jpg"
       },
       "price": {
-        "value": "103.66",
+        "value": "91.95",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C820256991535%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C406855838870%7C0",
       "seller": {
-        "username": "fadith-28",
-        "feedbackPercentage": "100.0",
-        "feedbackScore": 8,
-        "sellerAccountType": "INDIVIDUAL"
+        "username": "eparts-uk",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 10873,
+        "sellerAccountType": "BUSINESS"
       },
-      "condition": "Used",
-      "conditionId": "3000",
+      "condition": "New",
+      "conditionId": "1000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/N~8AAeSwoupq1pn4/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/c-oAAeSwmOJq2z9~/s-l1200.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "3.38",
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "5084495618",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/406855838870?_skw=iphone+15+pro+max&hash=item5eba7f6c96:g:c-oAAeSwmOJq2z9~&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ky0Mf5vfOCF8WaGQgbMYTm%2F2duymCZmXuNhR8Em1L01wckQFw7W6ytbQ818mGpNsylXOz6sjcLgvWlQV%2BMTZMMeLjqEENRMKtDzcAH9PwfKxbXJR0Yv8kTxMTKWAWzRDHyen6JU5sRLlM%2Fh94RMnITQwBNpSEDnQqzHBAkluweYoTSZoPkf69dk4%2FsQkV%2F7EmSJIXyOrnl5hNa94HFlgPaQrOiAGs6Ga9ua4m%2F0LGEyajN3WQwSbuO87wgpTw0YHGvM3JUIMd%2BJlfJpGoH0QPr5WExlFjOW4hDXOtDnbrbmw%3D%3D",
+      "itemLocation": {
+        "postalCode": "W3***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/V2EAAeSw11Zq2z-C/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/d6oAAeSwjJlq2z-E/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/V2sAAeSwClFq2z-G/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "unitPricingMeasure": "Display Screens & Digitizers",
+      "unitPrice": {
+        "value": "91.95",
+        "currency": "GBP"
+      },
+      "legacyItemId": "406855838870",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-04-14T11:46:31.000Z",
+      "itemCreationDate": "2026-04-14T11:46:31.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|407315425553|0",
+      "title": "iPhone 12 Pro Max \u2013 Gold \u2013 128GB \u2013(READ DESCRIPTION)-",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/RXgAAeSwAbBq3hv1/s-l225.jpg"
+      },
+      "price": {
+        "value": "151.50",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C407315425553%7C0",
+      "seller": {
+        "username": "ubpe48",
+        "feedbackPercentage": "88.9",
+        "feedbackScore": 29,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RXgAAeSwAbBq3hv1/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "3.92",
             "currency": "GBP"
           }
         }
@@ -244,41 +321,58 @@
         "FIXED_PRICE",
         "BEST_OFFER"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/820256991535?_skw=iphone+15+pro+max&hash=itembefb20692f:g:N~8AAeSwoupq1pn4&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mPg8Gsh8BNQwPWXvSHNuf%2B8jhxa2PzT6SzizjG%2FXBkFIWdhzyR%2BGDZc%2Bj5UXchGmjdTpgqlzxTfI0KcF2MYYpVm%2FD3pJ%2FJ7lbzgPl7XmAdOQMNfhPXmdNsiVTt2NKvUtOUU517yoLy%2BTXvrCcaviWPxxPwvE52v8OZYHsXTtEmLEyNfiTPt9f5l60N%2FqzYlD%2Bnbl13om9prAHcC2PpJvxTDdv2yJpIVs%2F4FETOkeFukAgw%2BFsG1E86HnYPcIz%2FeJIEpQ8T%2FRMlX7XcFyym9vi4%2BVQLHdH0wou8YxGQW0Zwgw%3D%3D",
+      "epid": "27041708045",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/407315425553?_skw=iphone+15+pro+max&hash=item5ed5e42911:g:RXgAAeSwAbBq3hv1&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mo2559AiY9OC9cFYRcD3fhY%2FsoMIycM04VJRKoDihPN7veT75oSsyBDrhsluZGFTP4Tdg2yP%2FdPZ44a6PnuN3biexnMF6ydCFftscnrSbnbGzb5f2zIw2qd9%2Bid1v%2BGVavFDnit14LbBDD%2Bazeq4l5rf1WYRs71LjNN9lDKUlb6083S8xgt1TqS6q5aR7mjjajWoFmJdUlA223HXB6t81R1JxExqosJTP35uySNFnezIy%2FbRLUP1vEfL0E8ogY%2B8aR%2B%2FzyFtTuXv5b1rpOkev6ETMxYungUA8D%2BaruZAajQg%3D%3D",
       "itemLocation": {
-        "postalCode": "TS1***",
+        "postalCode": "LE5***",
         "country": "GB"
       },
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Z78AAeSwONJq1pnl/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Q~cAAeSwwcNq3hv2/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/TTwAAeSwHc1q1pnl/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RUAAAeSwa5Rq3hv2/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/7egAAeSwzU1q1pnk/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RZkAAeSwMIZq3hv2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RVoAAeSwYudq3hv2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Q-oAAeSwXkxq3hv3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RUAAAeSw4I1q3hv3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RBgAAeSwVklq3hv3/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "820256991535",
+      "legacyItemId": "407315425553",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-19T22:37:59.000Z",
-      "itemCreationDate": "2026-10-19T22:37:59.000Z",
+      "itemOriginDate": "2026-10-25T15:12:53.000Z",
+      "itemCreationDate": "2026-10-25T15:12:53.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": true,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|920055243925|0",
-      "title": "APPLE IPHONE 15 PRO MAX 256GB - NATURAL TITANIUM - UNLOCKED - GREAT CONDITION",
+      "itemId": "v1|168815795706|0",
+      "title": "Iphone 15 PRO MAX 256GB Black Titanium - VGC 75% BH with Original Box",
       "leafCategoryIds": [
-        "9355"
+        "42425"
       ],
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Mobile & Smart Phones"
+          "categoryId": "42425",
+          "categoryName": "Other Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
         },
         {
           "categoryId": "15032",
@@ -286,259 +380,73 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/Nf0AAeSwLKpq1osH/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/xIIAAeSw~opq3h3i/s-l225.jpg"
       },
       "price": {
-        "value": "474.99",
+        "value": "373.90",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C920055243925%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C168815795706%7C0",
       "seller": {
-        "username": "always-reliable-mk",
+        "username": "buyandsellintheuk",
         "feedbackPercentage": "100.0",
-        "feedbackScore": 23,
+        "feedbackScore": 512,
         "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Nf0AAeSwLKpq1osH/s-l1200.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/xIIAAeSw~opq3h3i/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "0.00",
+            "value": "3.89",
             "currency": "GBP"
-          },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
+          }
         }
       ],
       "buyingOptions": [
-        "FIXED_PRICE"
+        "FIXED_PRICE",
+        "AUCTION"
       ],
-      "epid": "17062769388",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/920055243925?_skw=iphone+15+pro+max&hash=itemd63790e495:g:Nf0AAeSwLKpq1osH&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nYprz6Wis%2FRhBYl6aKBcLFSfM0oaBVjEOWI2XWpBe1uUzdkUuvNg2cMoDVs8zPl2DxdhiPqQkbtsXGS7uO75WDjdt6cQNLZhSldENG3LE0nGnRyqnpTDOvUcMccU6pYwd6IM22%2Bqcq1EjoapQWZvvnF0KkMhD70Lsd2VWfRNsya75bGmBo39mvE9rAlCwK68hozMm3f%2FkRbGt5648IhmJRz8e0U2Pmhw84A6aUxZOlFZ3m4ngR%2Fi9dbhs5t498wEzP15FP4DON2dKzpUqh6VrhRIGeBnQg1XaR4QWelB4Y4g%3D%3D",
+      "bidCount": 0,
+      "currentBidPrice": {
+        "value": "103.66",
+        "currency": "GBP"
+      },
+      "itemWebUrl": "https://www.ebay.co.uk/itm/168815795706?_skw=iphone+15+pro+max&hash=item274e349dfa:g:xIIAAeSw~opq3h3i",
       "itemLocation": {
-        "postalCode": "MK10***",
+        "postalCode": "KA3***",
         "country": "GB"
       },
-      "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/5WUAAeSwArFq1osT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/jmsAAeSwyIJq3h3i/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/wEYAAeSwmBlq1osf/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/ohwAAeSwGV1q3h3i/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/kiwAAeSwgWNq1osv/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/gMEAAeSwXolq3h3i/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/U-MAAeSwe55q1op6/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/rrUAAeSwrr1q3h3i/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Z3QAAeSwSFxq1op8/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/EeIAAeSwOLxq1op8/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/wN4AAeSwIR1q3h3j/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "920055243925",
+      "legacyItemId": "168815795706",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-19T21:31:05.000Z",
-      "itemCreationDate": "2026-10-19T21:31:05.000Z",
+      "itemOriginDate": "2026-10-25T15:24:31.000Z",
+      "itemCreationDate": "2026-10-25T15:24:31.000Z",
+      "itemEndDate": "2026-11-01T15:24:31.000Z",
       "topRatedBuyingExperience": false,
-      "priorityListing": true,
-      "listingMarketplaceId": "EBAY_GB"
-    },
-    {
-      "itemId": "v1|227573143458|0",
-      "title": "Apple iPhone 15 Pro Max 256GB Natural Titanium, Boxed, 85% Battery",
-      "leafCategoryIds": [
-        "9355"
-      ],
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Mobile & Smart Phones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Mobile Phones & Communication"
-        }
-      ],
-      "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/ml8AAeSwCZhq1TQi/s-l225.jpg"
-      },
-      "price": {
-        "value": "414.70",
-        "currency": "GBP"
-      },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227573143458%7C0",
-      "seller": {
-        "username": "s.clarke49",
-        "feedbackPercentage": "100.0",
-        "feedbackScore": 533,
-        "sellerAccountType": "INDIVIDUAL"
-      },
-      "condition": "Used",
-      "conditionId": "3000",
-      "thumbnailImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/ml8AAeSwCZhq1TQi/s-l1200.jpg"
-        }
-      ],
-      "shippingOptions": [
-        {
-          "shippingCostType": "FIXED",
-          "shippingCost": {
-            "value": "11.95",
-            "currency": "GBP"
-          },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
-        }
-      ],
-      "buyingOptions": [
-        "FIXED_PRICE"
-      ],
-      "epid": "17062769388",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/227573143458?_skw=iphone+15+pro+max&hash=item34fc6a97a2:g:ml8AAeSwCZhq1TQi",
-      "itemLocation": {
-        "postalCode": "SO30***",
-        "country": "GB"
-      },
-      "energyEfficiencyClass": "A",
-      "additionalImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/ar0AAeSwwixq1TQ8/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/~98AAeSw6qJq1TK5/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/7YcAAeSwV65q1TK5/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/zrEAAeSw1Plq1fhH/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/AsoAAeSw4PJq1fhH/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/z3wAAeSwjI1q1fhH/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/I3wAAeSwvTlq1fos/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/B2oAAeSwupxq1nLy/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/UckAAeSwvjtq1nLy/s-l225.jpg"
-        }
-      ],
-      "adultOnly": false,
-      "legacyItemId": "227573143458",
-      "availableCoupons": false,
-      "itemOriginDate": "2026-10-18T21:07:13.000Z",
-      "itemCreationDate": "2026-10-18T21:07:13.000Z",
-      "topRatedBuyingExperience": false,
-      "priorityListing": false,
-      "listingMarketplaceId": "EBAY_GB"
-    },
-    {
-      "itemId": "v1|326665252375|515696302601",
-      "title": "Apple iPhone 15 Pro Max 256/512GB/1TB - ALL COLOURS-UNLOCKED-VERY GOOD CONDITION",
-      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326665252375",
-      "leafCategoryIds": [
-        "9355"
-      ],
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Mobile & Smart Phones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Mobile Phones & Communication"
-        }
-      ],
-      "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/QvoAAOSws2dnCUg2/s-l225.jpg"
-      },
-      "price": {
-        "value": "549.99",
-        "currency": "GBP"
-      },
-      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326665252375%7C515696302601",
-      "seller": {
-        "username": "the_ioutlet_extra",
-        "feedbackPercentage": "99.8",
-        "feedbackScore": 78564,
-        "sellerAccountType": "BUSINESS"
-      },
-      "marketingPrice": {
-        "originalPrice": {
-          "value": "1199.00",
-          "currency": "GBP"
-        },
-        "discountPercentage": "54",
-        "discountAmount": {
-          "value": "649.01",
-          "currency": "GBP"
-        },
-        "priceTreatment": "LIST_PRICE"
-      },
-      "condition": "Very Good - Refurbished",
-      "conditionId": "2020",
-      "thumbnailImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/QvoAAOSws2dnCUg2/s-l1200.jpg"
-        }
-      ],
-      "shippingOptions": [
-        {
-          "shippingCostType": "FIXED",
-          "shippingCost": {
-            "value": "0.00",
-            "currency": "GBP"
-          },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z"
-        }
-      ],
-      "buyingOptions": [
-        "FIXED_PRICE"
-      ],
-      "epid": "23097463111",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/326665252375?_skw=iphone+15+pro+max&hash=item4c0ec42e17:g:QvoAAOSws2dnCUg2",
-      "itemLocation": {
-        "postalCode": "PL6***",
-        "country": "GB"
-      },
-      "additionalImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/KlQAAeSwYFFo57yC/s-l225.jpg"
-        }
-      ],
-      "adultOnly": false,
-      "unitPricingMeasure": "Unit",
-      "unitPrice": {
-        "value": "549.99",
-        "currency": "GBP"
-      },
-      "legacyItemId": "326665252375",
-      "availableCoupons": true,
-      "itemOriginDate": "2024-10-11T16:04:36.000Z",
-      "itemCreationDate": "2025-06-30T16:08:49.000Z",
-      "topRatedBuyingExperience": true,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
@@ -563,7 +471,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/BaAAAOSwK59nMix9/s-l225.jpg"
       },
       "price": {
-        "value": "617.99",
+        "value": "607.69",
         "currency": "GBP"
       },
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -571,7 +479,7 @@
       "seller": {
         "username": "musicmagpie",
         "feedbackPercentage": "99.1",
-        "feedbackScore": 14081538,
+        "feedbackScore": 14092427,
         "sellerAccountType": "BUSINESS"
       },
       "marketingPrice": {
@@ -579,9 +487,9 @@
           "value": "1199.00",
           "currency": "GBP"
         },
-        "discountPercentage": "48",
+        "discountPercentage": "49",
         "discountAmount": {
-          "value": "581.01",
+          "value": "591.31",
           "currency": "GBP"
         },
         "priceTreatment": "LIST_PRICE"
@@ -600,8 +508,8 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
@@ -630,8 +538,94 @@
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|820252538763|0",
-      "title": "iPhone 15 Pro Max 256GB Natural Titanium Unlocked 87% Battery Health",
+      "itemId": "v1|236967072766|0",
+      "title": "Apple iPhone 15 Pro Max 256GB Black Titanium Unlocked Very Good 12 M Warranty",
+      "leafCategoryIds": [
+        "42425"
+      ],
+      "categories": [
+        {
+          "categoryId": "42425",
+          "categoryName": "Other Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/o08AAeSwycZqZ9c5/s-l225.jpg"
+      },
+      "price": {
+        "value": "510.00",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C236967072766%7C0",
+      "seller": {
+        "username": "raztechlimited",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 6587,
+        "sellerAccountType": "BUSINESS"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/o08AAeSwycZqZ9c5/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/236967072766?_skw=iphone+15+pro+max&hash=item372c5693fe:g:o08AAeSwycZqZ9c5",
+      "itemLocation": {
+        "postalCode": "N22***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mQoAAeSw46tqZ9c8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y-AAAeSwlOZqZ9c5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yxoAAeSwcUpqZ9do/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zXcAAeSwxUxqZ9dm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZJQAAeSwlslqZ9dl/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "236967072766",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-07-27T22:19:45.000Z",
+      "itemCreationDate": "2026-07-27T22:19:45.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|287678226175|0",
+      "title": "iPhone 15 Pro Max 512GB Natural Titanium Unlocked 90% Battery Health",
       "leafCategoryIds": [
         "9355"
       ],
@@ -646,88 +640,210 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/-9YAAeSwdLBq1QQr/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/M0oAAeSwspJq3gEH/s-l225.jpg"
       },
       "price": {
-        "value": "459.00",
+        "value": "516.70",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C820252538763%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C287678226175%7C0",
       "seller": {
-        "username": "carolene",
-        "feedbackPercentage": "98.6",
-        "feedbackScore": 69,
+        "username": "onlyonems",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 640,
         "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-9YAAeSwdLBq1QQr/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/M0oAAeSwspJq3gEH/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "0.00",
+            "value": "11.95",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
-        "FIXED_PRICE"
+        "FIXED_PRICE",
+        "BEST_OFFER"
       ],
-      "epid": "17062769388",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/820252538763?_skw=iphone+15+pro+max&hash=itembefadc778b:g:-9YAAeSwdLBq1QQr",
+      "epid": "10062774544",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/287678226175?_skw=iphone+15+pro+max&hash=item42faf55eff:g:M0oAAeSwspJq3gEH",
       "itemLocation": {
-        "postalCode": "BB5***",
+        "postalCode": "SA6***",
         "country": "GB"
       },
       "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/yAsAAeSwlVVq1QQt/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MYwAAeSw2sVq3gEH/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/iaQAAeSw46Nq1QQs/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MiYAAeSwWPVq3gEH/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/9-MAAeSw2UNq1QQs/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MmIAAeSwYztq3gEH/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/3qYAAeSw9dpq1QQt/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MtYAAeSwbN5q3gEH/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/4N4AAeSwXG9q1QQu/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MicAAeSwWPVq3gEI/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/IbEAAeSwQddq1QQu/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Mc4AAeSwXgdq3gEI/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/xiQAAeSwHVZq1QQu/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/M5cAAeSw~Dtq3gEI/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/XwIAAeSw3XRq1QQu/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MV8AAeSwnz9q3gEI/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/2jsAAeSwCbNq1QQv/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MXcAAeSwk0xq3gEI/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "820252538763",
+      "legacyItemId": "287678226175",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-18T17:44:52.000Z",
-      "itemCreationDate": "2026-10-18T17:44:52.000Z",
+      "itemOriginDate": "2026-10-25T13:20:51.000Z",
+      "itemCreationDate": "2026-10-25T13:20:51.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|960088592170|0",
-      "title": "iPhone 15 Pro Max 256gb Blue Unlocked, Excellent Condition, 85% BH",
+      "itemId": "v1|920065182243|0",
+      "title": "Apple iPhone 15 Pro Max 256GB White Titanium Unlocked",
+      "leafCategoryIds": [
+        "42425"
+      ],
+      "categories": [
+        {
+          "categoryId": "42425",
+          "categoryName": "Other Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/0dwAAeSwPL1q2mk1/s-l225.jpg"
+      },
+      "price": {
+        "value": "378.13",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C920065182243%7C0",
+      "seller": {
+        "username": "antion_0",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0dwAAeSwPL1q2mk1/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.80",
+            "currency": "GBP"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/920065182243?_skw=iphone+15+pro+max&hash=itemd638288a23:g:0dwAAeSwPL1q2mk1",
+      "itemLocation": {
+        "postalCode": "CV21***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xSAAAeSwkYBq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QPoAAeSw~R9q2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zekAAeSwfoJq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yqoAAeSwaQxq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/vh0AAeSwYE1q2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/R4cAAeSwCwBq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tnAAAeSwKAZq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PpoAAeSwnqdq2mk0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PpsAAeSwpBFq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MZgAAeSwgZ5q2mk0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PrYAAeSw0K1q2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VRMAAeSwQg5q2mk2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yCsAAeSwF5hq2mk2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yq8AAeSwaQxq2mk2/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/xlIAAeSwd4Vq2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/b40AAeSwhI1q2mk1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1E8AAeSw0sNq2mk1/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "920065182243",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-22T19:54:00.000Z",
+      "itemCreationDate": "2026-10-22T19:54:00.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|137873858418|0",
+      "title": "iPhone 15 Pro Max Titanium Blue Smartphone 256GB Unlocked",
       "leafCategoryIds": [
         "9355"
       ],
@@ -742,24 +858,138 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/SrwAAeSwyLdq1lJR/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/MUAAAeSwQnZq3gF~/s-l225.jpg"
       },
       "price": {
-        "value": "435.10",
+        "value": "465.70",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C960088592170%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C137873858418%7C0",
       "seller": {
-        "username": "nutnut1962",
+        "username": "ispatt_0",
         "feedbackPercentage": "100.0",
-        "feedbackScore": 2589,
+        "feedbackScore": 74,
         "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/SrwAAeSwyLdq1lJR/s-l640.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/MUAAAeSwQnZq3gF~/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "3.65",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "24062761146",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/137873858418?_skw=iphone+15+pro+max&hash=item2019ec1f72:g:MUAAAeSwQnZq3gF~",
+      "itemLocation": {
+        "postalCode": "B6***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Me0AAeSw2sVq3gGA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MlkAAeSwuydq3gGA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MZ4AAeSwHxVq3gGA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MbcAAeSwvYBq3gGB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MaAAAeSw0NVq3gGC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Mg4AAeSwWC1q3gGC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/McIAAeSwEmBq3gGC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MnYAAeSwa5Rq3gGC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Mj0AAeSwK0lq3gGD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MrYAAeSwh69q3gGD/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "137873858418",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T13:22:07.000Z",
+      "itemCreationDate": "2026-10-25T13:22:07.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|326665252375|515696302599",
+      "title": "Apple iPhone 15 Pro Max 256/512GB/1TB - ALL COLOURS-UNLOCKED-VERY GOOD CONDITION",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=326665252375",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QvoAAOSws2dnCUg2/s-l225.jpg"
+      },
+      "price": {
+        "value": "549.99",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C326665252375%7C515696302599",
+      "seller": {
+        "username": "the_ioutlet_extra",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 78772,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "1199.00",
+          "currency": "GBP"
+        },
+        "discountPercentage": "54",
+        "discountAmount": {
+          "value": "649.01",
+          "currency": "GBP"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "condition": "Very Good - Refurbished",
+      "conditionId": "2020",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QvoAAOSws2dnCUg2/s-l1200.jpg"
         }
       ],
       "shippingOptions": [
@@ -769,59 +999,35 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-23T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/960088592170?_skw=iphone+15+pro+max&hash=itemdf89bd4f2a:g:SrwAAeSwyLdq1lJR",
+      "epid": "9105244028",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/326665252375?_skw=iphone+15+pro+max&hash=item4c0ec42e17:g:QvoAAOSws2dnCUg2",
       "itemLocation": {
-        "postalCode": "ME10***",
+        "postalCode": "PL6***",
         "country": "GB"
       },
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/TPMAAeSwPkhq1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/OaIAAeSwMH5q1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/LaMAAeSwCoVq1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/M7kAAeSwmzlq1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/OBEAAeSwP1Rq1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/J78AAeSwcolq1lJ0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/LwYAAeSwc2lq1lJR/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/J6cAAeSwOQhq1lJR/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/JpMAAeSwoOBq1lJR/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/RjEAAeSwhwlq1lJR/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/SV0AAeSw40Zq1lJR/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/KlQAAeSwYFFo57yC/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "960088592170",
-      "availableCoupons": false,
-      "itemOriginDate": "2026-10-19T17:33:20.000Z",
-      "itemCreationDate": "2026-10-19T17:33:20.000Z",
-      "topRatedBuyingExperience": false,
+      "unitPricingMeasure": "Unit",
+      "unitPrice": {
+        "value": "549.99",
+        "currency": "GBP"
+      },
+      "legacyItemId": "326665252375",
+      "availableCoupons": true,
+      "itemOriginDate": "2024-10-11T16:04:36.000Z",
+      "itemCreationDate": "2025-06-30T16:08:49.000Z",
+      "topRatedBuyingExperience": true,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
@@ -846,7 +1052,7 @@
         "imageUrl": "https://i.ebayimg.com/images/g/g2IAAOSwindnMixg/s-l225.jpg"
       },
       "price": {
-        "value": "576.79",
+        "value": "566.49",
         "currency": "GBP"
       },
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
@@ -854,7 +1060,7 @@
       "seller": {
         "username": "musicmagpie",
         "feedbackPercentage": "99.1",
-        "feedbackScore": 14081538,
+        "feedbackScore": 14092427,
         "sellerAccountType": "BUSINESS"
       },
       "marketingPrice": {
@@ -862,9 +1068,9 @@
           "value": "1199.00",
           "currency": "GBP"
         },
-        "discountPercentage": "52",
+        "discountPercentage": "53",
         "discountAmount": {
-          "value": "622.21",
+          "value": "632.51",
           "currency": "GBP"
         },
         "priceTreatment": "LIST_PRICE"
@@ -883,8 +1089,8 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
@@ -913,9 +1119,100 @@
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|335673507847|545189722596",
-      "title": "Apple iPhone 15 Pro Max - All Sizes & Colours - Unlocked - Excellent Condition",
-      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=335673507847",
+      "itemId": "v1|860081995587|0",
+      "title": "Apple iPhone 15 Pro Max 256GB Unlocked Natural Titanium, Great Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/G7EAAeSwBNpq3dxW/s-l225.jpg"
+      },
+      "price": {
+        "value": "444.28",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C860081995587%7C0",
+      "seller": {
+        "username": "vintagehandlefinds",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/G7EAAeSwBNpq3dxW/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "17062769388",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/860081995587?_skw=iphone+15+pro+max&hash=itemc840e1bf43:g:G7EAAeSwBNpq3dxW",
+      "itemLocation": {
+        "postalCode": "B97***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/G1UAAeSwhhNq3dxW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Gt8AAeSwLrxq3dxW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GwgAAeSw3WZq3dxX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Gx4AAeSwphZq3dxW/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/G3sAAeSwMIZq3dxX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GtAAAeSwhCZq3dxX/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Gu8AAeSw6s9q3dxX/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "860081995587",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T10:42:21.000Z",
+      "itemCreationDate": "2026-10-25T10:42:21.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|335677488728|545192848463",
+      "title": "Apple iPhone 15 Pro Max - All Sizes & Colours - Unlocked - Very Good",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=335677488728",
       "leafCategoryIds": [
         "9355"
       ],
@@ -933,25 +1230,25 @@
         "imageUrl": "https://i.ebayimg.com/images/g/kfEAAOSwBB5nNYt0/s-l225.jpg"
       },
       "price": {
-        "value": "559.99",
+        "value": "509.99",
         "currency": "GBP"
       },
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335673507847%7C545189722596",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335677488728%7C545192848463",
       "seller": {
         "username": "innofinity-worldwide",
         "feedbackPercentage": "99.4",
-        "feedbackScore": 228323,
+        "feedbackScore": 229324,
         "sellerAccountType": "BUSINESS"
       },
       "marketingPrice": {
         "discountPercentage": "0"
       },
-      "condition": "Excellent - Refurbished",
-      "conditionId": "2010",
+      "condition": "Very Good - Refurbished",
+      "conditionId": "2020",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/kfEAAOSwBB5nNYt0/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/kfEAAOSwBB5nNYt0/s-l500.jpg"
         }
       ],
       "shippingOptions": [
@@ -961,15 +1258,15 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
       "epid": "26062776268",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/335673507847?_skw=iphone+15+pro+max&hash=item4e27b34007:g:kfEAAOSwBB5nNYt0",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/335677488728?_skw=iphone+15+pro+max&hash=item4e27effe58:g:kfEAAOSwBB5nNYt0&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kYD5jrWZ660E29q89%2BH0gY8PJR5BHK3oOX64oy%2BjRileLXnMEZRcv0fj4XXGdHXA1BxcoPoK9p%2BnVuIF%2BnQ5SR1dKuZvGhukiwx4LDbgSqOPGHdcog4B7hP700EYN1aPTfuwqAIWhVrmMZBkYweE7Q0ClTfiwzf%2BdX3rWV21myDakVz8zIbWVKgT0ck7owsqt%2F1EbWPbJQzbW7VM7sngsFHPUhthuqOM3jybK%2FM2w%2Fw%2FQ9g6XJhhkvghdwaXAGm1%2FlKY6FchEgY2kIlN5avrJZa6hS2Yiof8oNXBg8bwZ7Tg%3D%3D",
       "itemLocation": {
         "postalCode": "SW3***",
         "country": "GB"
@@ -1009,178 +1306,16 @@
           "imageUrl": "https://i.ebayimg.com/images/g/yM0AAOSwmjpnNYtz/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-EkAAeSw2HNqjAEa/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/cP0AAeSwVppqjAD7/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "335673507847",
+      "legacyItemId": "335677488728",
       "availableCoupons": true,
-      "itemOriginDate": "2024-11-14T05:37:50.000Z",
-      "itemCreationDate": "2024-11-14T05:37:50.000Z",
+      "itemOriginDate": "2024-11-16T09:47:36.000Z",
+      "itemCreationDate": "2024-11-16T09:47:36.000Z",
       "topRatedBuyingExperience": true,
-      "priorityListing": false,
-      "listingMarketplaceId": "EBAY_GB"
-    },
-    {
-      "itemId": "v1|336848935058|0",
-      "title": "Apple iPhone 15 Pro Max 256GB White Unlocked, Boxed.",
-      "leafCategoryIds": [
-        "9355"
-      ],
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Mobile & Smart Phones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Mobile Phones & Communication"
-        }
-      ],
-      "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/3EwAAeSwTBdq02Cr/s-l225.jpg"
-      },
-      "price": {
-        "value": "445.00",
-        "currency": "GBP"
-      },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336848935058%7C0",
-      "seller": {
-        "username": "valise-42",
-        "feedbackPercentage": "100.0",
-        "feedbackScore": 75,
-        "sellerAccountType": "INDIVIDUAL"
-      },
-      "condition": "Used",
-      "conditionId": "3000",
-      "thumbnailImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/3EwAAeSwTBdq02Cr/s-l1600.jpg"
-        }
-      ],
-      "shippingOptions": [
-        {
-          "shippingCostType": "FIXED",
-          "shippingCost": {
-            "value": "10.00",
-            "currency": "GBP"
-          },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
-        }
-      ],
-      "buyingOptions": [
-        "FIXED_PRICE",
-        "BEST_OFFER"
-      ],
-      "epid": "26062776268",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/336848935058?_skw=iphone+15+pro+max&hash=item4e6dc2d892:g:3EwAAeSwTBdq02Cr",
-      "itemLocation": {
-        "postalCode": "LN6***",
-        "country": "GB"
-      },
-      "additionalImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/RSEAAeSwOLxq02CY/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/C2kAAeSwQSJq02CY/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/m1AAAeSwQddq02CY/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/1DEAAeSwHY9q02CY/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/W60AAeSwqgJq02CY/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/cj8AAeSw2UNq02CY/s-l225.jpg"
-        }
-      ],
-      "adultOnly": false,
-      "legacyItemId": "336848935058",
-      "availableCoupons": false,
-      "itemOriginDate": "2026-10-17T11:50:55.000Z",
-      "itemCreationDate": "2026-10-17T11:50:55.000Z",
-      "topRatedBuyingExperience": false,
-      "priorityListing": false,
-      "listingMarketplaceId": "EBAY_GB"
-    },
-    {
-      "itemId": "v1|920055472355|0",
-      "title": "Apple iPhone 15 Pro Max 256GB White Titanium Unlocked 5G iOS 48MP",
-      "leafCategoryIds": [
-        "9355"
-      ],
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Mobile & Smart Phones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Mobile Phones & Communication"
-        }
-      ],
-      "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/0qoAAeSw-pVq1p2b/s-l225.jpg"
-      },
-      "price": {
-        "value": "465.70",
-        "currency": "GBP"
-      },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C920055472355%7C0",
-      "seller": {
-        "username": "fatimai_87",
-        "feedbackPercentage": "100.0",
-        "feedbackScore": 12,
-        "sellerAccountType": "INDIVIDUAL"
-      },
-      "condition": "Used",
-      "conditionId": "3000",
-      "thumbnailImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/0qoAAeSw-pVq1p2b/s-l1600.jpg"
-        }
-      ],
-      "shippingOptions": [
-        {
-          "shippingCostType": "FIXED",
-          "shippingCost": {
-            "value": "11.95",
-            "currency": "GBP"
-          },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
-        }
-      ],
-      "buyingOptions": [
-        "FIXED_PRICE",
-        "BEST_OFFER"
-      ],
-      "epid": "26062776268",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/920055472355?_skw=iphone+15+pro+max&hash=itemd6379460e3:g:0qoAAeSw-pVq1p2b",
-      "itemLocation": {
-        "postalCode": "BD21***",
-        "country": "GB"
-      },
-      "additionalImages": [
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/nJMAAeSw49lq1p2E/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/hA4AAeSw7CRq1p2E/s-l225.jpg"
-        }
-      ],
-      "adultOnly": false,
-      "legacyItemId": "920055472355",
-      "availableCoupons": false,
-      "itemOriginDate": "2026-10-19T22:47:08.000Z",
-      "itemCreationDate": "2026-10-19T22:47:08.000Z",
-      "topRatedBuyingExperience": false,
-      "priorityListing": false,
+      "priorityListing": true,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
@@ -1214,9 +1349,9 @@
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
       "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C860051890716%7C617201107194",
       "seller": {
-        "username": "trustedseller_top",
+        "username": "nexora-market-gb",
         "feedbackPercentage": "100.0",
-        "feedbackScore": 27,
+        "feedbackScore": 29,
         "sellerAccountType": "BUSINESS"
       },
       "condition": "New",
@@ -1233,63 +1368,48 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-11-04T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/860051890716?_skw=iphone+15+pro+max&hash=itemc83f16621c:g:GsEAAeSwiQ1q0nKG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0Gh4O%2BJuI1UMYSzwM2RkUlTaW%2FHoh9u4KDZsmwzP3%2BtBmrCHIy1z8E%2Fn8HZb16XX4ir8me6hQYkcg66VeQAvN%2BoFDrNDdEvyyvsR5nMqgqNuSB9hV4NfO6IaDWji%2Bw%2FcVdCSJEnZ0deni4oG8jqdTdOSHo36J6zK4Htj68AnFzsML9LCjkbIcvAK7pfu%2B%2BdmjZP46j%2FjiTUXb%2FKTtK3jL4p9ExvhtANqLysz4HtW9uMl8CpLTp5VLdcP%2FDJDMPUpiJx0Z5gvLUtGrKr3wn5YTB4l%2B2UBqyy8yc43NXGzFZg%3D%3D",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/860051890716?_skw=iphone+15+pro+max&hash=itemc83f16621c:g:GsEAAeSwiQ1q0nKG&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7n0Gh4O%2BJuI1UMYSzwM2RkU3gS96xLDymKjvIUhy2sDTuXoBzhOrpnFUB1E9STnYQbE7WshBEp7x9CY66YyYOCg8NEWjfDmCnDZ89ChYQ58zd1cxBeiEUCzGIVzNNZtduplaYezdOwXizlt%2BfyOH5NGpqUR0UIb%2BAyjVj26NZiiAaBdl6hxJbDT1%2F%2B%2BNqTWKCzCdVE7ZEa9tpVigiXq3sjmQD8SAevvSkNUUrpZCYTTZykzfNvzd8ikmd0Wj5bF%2FNo51vQD%2BD0CO7%2BOfnrO4xLIYKw8yyIrk4nRpMm2qYk2Ug%3D%3D",
       "itemLocation": {
         "postalCode": "M14***",
         "country": "GB"
       },
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Iz4AAeSwSg1q0nJu/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/ku8AAeSwpkxq0nJu/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/-7gAAeSwJ55q0nJ1/s-l225.jpg"
         },
         {
           "imageUrl": "https://i.ebayimg.com/images/g/IDoAAeSwH5Bq0nJv/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-7gAAeSwJ55q0nJ1/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Iz4AAeSwSg1q0nJu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UX4AAeSwks9q2nSj/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ku8AAeSwpkxq0nJu/s-l225.jpg"
         },
         {
           "imageUrl": "https://i.ebayimg.com/images/g/HNgAAeSwH5Bq0nI0/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/C28AAeSwyHFq0nI0/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/bJIAAeSw~rFq2oLt/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/HCcAAeSwDPBq0nI0/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/XH8AAeSwkbRq2oLu/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-0UAAeSwZ3Nq0nI0/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/5jEAAeSwXL9q2oLu/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-FYAAeSwzkRq0nI0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/I6wAAeSwqMVq0nI0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/~XcAAeSwWUJq0nI1/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/FKUAAeSwO~xq0nIz/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/53cAAeSwEXhq0nIz/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/IwYAAeSwt1Zq0nI0/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/GqcAAeSwrF1q0nI0/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/BccAAeSwmgVq2yZk/s-l225.jpg"
         }
       ],
       "adultOnly": false,
@@ -1307,8 +1427,8 @@
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|860062974280|0",
-      "title": "Apple iPhone 15 Pro Max 256GB Black Titanium, Unlocked, Dual SIM, 100%",
+      "itemId": "v1|960114098692|0",
+      "title": "Apple iPhone 13 Pro Max - 256GB - Graphite (Unlocked) A2643 (GSM)",
       "leafCategoryIds": [
         "9355"
       ],
@@ -1323,75 +1443,266 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/Xj4AAeSwscdq1niH/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/QncAAeSwXkxq3hoP/s-l225.jpg"
       },
       "price": {
-        "value": "567.70",
+        "value": "281.50",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C860062974280%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C960114098692%7C0",
       "seller": {
-        "username": "hazeemalkdah",
-        "feedbackPercentage": "98.0",
-        "feedbackScore": 58,
+        "username": "computer_g33k",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 2760,
         "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Xj4AAeSwscdq1niH/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/QncAAeSwXkxq3hoP/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "11.95",
+            "value": "5.80",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-23T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE",
         "BEST_OFFER"
       ],
-      "epid": "17062769388",
-      "itemWebUrl": "https://www.ebay.co.uk/itm/860062974280?_skw=iphone+15+pro+max&hash=itemc83fbf8148:g:Xj4AAeSwscdq1niH&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kbLaEStRhpwja2Q3Fqte9WQ4shoMLNT2beyird8fg2UZGzhrN0jcKseVbsEjl65kGO9eUi8Einqvb1Oic3hSTGsl%2BbodCQr8V0DIuc%2F6VrnrGnXc9v5XYcRX36aDS25tddYIIx%2BO8DeL10%2FaKhRO%2B%2F2kesK6PPFSMe8ivYYmg6mDfzwj%2BFDIAlqScV0Gb6AMjJ9i%2F23xzwSLwv%2FeEiQe8pIlb5pig4HpnxvD0R1kclUtmrWqBukr3Dv55gXC4tBsgEGIfm9d%2BKvMIJQrGi97TgOf3UKHhSqtRGNrbBXqmTeQ%3D%3D",
+      "epid": "8049288697",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/960114098692?_skw=iphone+15+pro+max&hash=itemdf8b428204:g:QncAAeSwXkxq3hoP&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kJsFKQ2fyWr5mRwQ4V7b2%2BozhsP7pvwJdGTM2NBtM%2BNgxyHCHZm%2BXhjqmeHj1TGMTHVIQn2w6zNwuOI%2FVuRVKVZiJ5KKOZiHA1SrOGhlaMZtAzzLzfqh0EA1HSBkurcTy48FFSOte%2BCjANLBqqkLAi9Kqipah7YmUTROzJF0ieZYxIrYbBMAIuDrBbYbWrEobBrzbuzim8dxOCQw45j5rCvin%2Fs%2FmI2AXANf5miJR9nDHNz6AYPLHI0KCEin8NAEXVS0lo7H3wgenvbpLIgCY9x%2BlvkH8Llzy658phE4GLSw%3D%3D",
       "itemLocation": {
-        "postalCode": "TW18***",
+        "postalCode": "ME3***",
         "country": "GB"
       },
-      "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/OAwAAeSwvXhq1niI/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/QnYAAeSwqilq3hoP/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/WbMAAeSwlyRq1niI/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/QekAAeSwXJBq3hoP/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/yTMAAeSwcKJq1niI/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Q4oAAeSw-8lq3hoP/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/EiEAAeSwhKBq1niI/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/RQMAAeSw~Dtq3hoP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RKIAAeSwRdFq3hoP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Q2kAAeSwp2lq3hoP/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "860062974280",
+      "legacyItemId": "960114098692",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-19T20:11:11.000Z",
-      "itemCreationDate": "2026-10-19T20:11:11.000Z",
+      "itemOriginDate": "2026-10-25T15:06:28.000Z",
+      "itemCreationDate": "2026-10-25T15:06:28.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": true,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|198699255106|497631943919",
-      "title": "Shockproof Magnetic Case for iPhone 17e 15 14 13 12 11 16 Pro Max 17 Pro 15 Pro",
-      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=198699255106",
+      "itemId": "v1|298047105472|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Unlocked - Black Titanium - Good Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/7icAAeSwQDVply2P/s-l225.jpg"
+      },
+      "price": {
+        "value": "504.69",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C298047105472%7C0",
+      "seller": {
+        "username": "musicmagpie",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 14092427,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "discountPercentage": "0"
+      },
+      "condition": "Good - Refurbished",
+      "conditionId": "2030",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7icAAeSwQDVply2P/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "15105215915",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/298047105472?_skw=iphone+15+pro+max&hash=item4564fde9c0:g:7icAAeSwQDVply2P",
+      "itemLocation": {
+        "postalCode": "SK7***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3roAAeSw7l5plyaE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7b8AAOSwbpNkT3Ei/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5p4AAeSwoipply2P/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/w2UAAeSwR-xply2P/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "298047105472",
+      "availableCoupons": true,
+      "itemOriginDate": "2026-02-19T15:35:36.000Z",
+      "itemCreationDate": "2026-02-19T15:36:05.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|920065077765|0",
+      "title": "Apple iPhone 15 Pro Max Black, 256GB, \ud83d\udd25\ud83d\udd25",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/twQAAeSwmedq2mGj/s-l225.jpg"
+      },
+      "price": {
+        "value": "425.00",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C920065077765%7C0",
+      "seller": {
+        "username": "dan19931",
+        "feedbackPercentage": "97.9",
+        "feedbackScore": 71,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/twQAAeSwmedq2mGj/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.99",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/920065077765?_skw=iphone+15+pro+max&hash=itemd63826f205:g:twQAAeSwmedq2mGj",
+      "itemLocation": {
+        "postalCode": "LL11***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qwIAAeSwYtFq2mFn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mlgAAeSwIN5q2mFp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rikAAeSwteJq2mFq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q04AAeSwHNNq2mFs/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rCMAAeSwlgRq2mFu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qi0AAeSwqetq2mF3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ozMAAeSwmcVq2mF4/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q68AAeSwKMBq2mF5/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q-EAAeSwg6Bq2mF6/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rQAAAeSwV7hq2mGE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/rjUAAeSwteJq2mGF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mu0AAeSwx4Jq2mGN/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "920065077765",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-22T19:20:25.000Z",
+      "itemCreationDate": "2026-10-22T19:20:25.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|298731663043|595433149587",
+      "title": "Case for iPhone 18 Pro 18 Pro Max 17 16 15 Clear Shockproof Case Cover & Glass",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=298731663043",
       "leafCategoryIds": [
         "20349"
       ],
@@ -1410,25 +1721,25 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/o6wAAeSw3yhqViSs/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/SwoAAeSwhlNqwg5J/s-l225.jpg"
       },
       "price": {
-        "value": "5.95",
+        "value": "3.99",
         "currency": "GBP"
       },
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198699255106%7C497631943919",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C298731663043%7C595433149587",
       "seller": {
-        "username": "brightbay.store",
-        "feedbackPercentage": "99.8",
-        "feedbackScore": 5568,
+        "username": "viva41",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 613605,
         "sellerAccountType": "BUSINESS"
       },
       "condition": "New",
       "conditionId": "1000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/o6wAAeSw3yhqViSs/s-l960.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/SwoAAeSwhlNqwg5J/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
@@ -1438,87 +1749,460 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/198699255106?_skw=iphone+15+pro+max&hash=item2e43660542:g:o6wAAeSw3yhqViSs&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7misnuon1HDutw%2FQEszojsSuHLcjIyDss%2B5ncUVe8%2FHON5RwaEXcSD%2F5q%2BFsuS0hYEs0T3piS0ZPag9utG2Os66dh7RgRajZRUJ%2FLQdPFaqeCfVYVd0eLXh3jJ3AJyUxmLhbNShfl7SwmSXIkXvig3i7pGNDnQfzzz8rvGfQlySU214uBS6zvMH1a9pfCOMcuYk2GgHBN1nyavb2vbtvvxpMsL2qMaJWfIDiZZ9Py78tm0LwdwY1Dzc%2FKPlO6YxmiCpAs4adBjEehK8PhE20M0F2WvtNp3HAJoMrCga%2BKEvyA%3D%3D",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/298731663043?_skw=iphone+15+pro+max&hash=item458dcb6ec3:g:SwoAAeSwhlNqwg5J",
       "itemLocation": {
-        "postalCode": "B6***",
+        "postalCode": "RM8***",
         "country": "GB"
       },
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/h-sAAeSw371qViSx/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/d64AAeSwa-Rqwg5N/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/YVsAAeSwJM5qViS1/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/uQ4AAeSwniBqwg5Q/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/10EAAeSwARRqViS5/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/PFkAAeSw9nRqwg5U/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/fmUAAeSwVDJqViTF/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/IOIAAeSwX4hqwg5Y/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/L04AAeSw1stqViTH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/8GAAAeSwBGFqwg5b/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/AiwAAeSwknFqViTF/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/KVcAAeSwVABqwg5f/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/MSMAAeSw8fBqViTH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/vhkAAeSwc~Rqwg5j/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/-s8AAeSwYwRqViTH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Ac0AAeSwU6Jqwg5z/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/rI8AAeSwDTBqViTG/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/AioAAeSwU6Jqwg5-/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/z~IAAeSwbG9qViTH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/jewAAeSwvTxqwg6Q/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/lcYAAeSwFdNqViTH/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/GGAAAeSw0T5qwg6U/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/VbUAAeSwOPZqViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Vg0AAeSwfndqwg6X/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/OzEAAeSwws5qViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Aw0AAeSwU6Jqwg6c/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/Xm8AAeSwn2JqViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/8w0AAeSwQ-Fqwg6f/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/XgsAAeSwNRxqViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/Y~gAAeSwOoxqwg6m/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/67wAAeSwNm9qViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/5fkAAeSw4mRqwg6r/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/XZwAAeSw2MxqViTT/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/hqYAAeSwS3Zqwg6w/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Q20AAeSwZPtqwg63/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bKQAAeSwOJdqwg69/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qp0AAeSwm7Rqwg7B/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tZsAAeSwMtRqwg7G/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "unitPricingMeasure": "Unit",
-      "unitPrice": {
-        "value": "5.95",
-        "currency": "GBP"
-      },
-      "legacyItemId": "198699255106",
+      "legacyItemId": "298731663043",
       "availableCoupons": false,
-      "itemOriginDate": "2026-07-18T08:39:56.000Z",
-      "itemCreationDate": "2026-10-08T18:18:52.000Z",
+      "itemOriginDate": "2026-10-04T08:45:24.000Z",
+      "itemCreationDate": "2026-10-04T08:45:24.000Z",
       "topRatedBuyingExperience": false,
-      "priorityListing": true,
+      "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|297490780305|594925883827",
+      "itemId": "v1|336031819166|545572617072",
+      "title": "Apple iPhone 15 Pro Max - All Sizes & Colours - Unlocked - Good",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=336031819166",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/kfEAAOSwBB5nNYt0/s-l225.jpg"
+      },
+      "price": {
+        "value": "646.99",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336031819166%7C545572617072",
+      "seller": {
+        "username": "innofinity-worldwide",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 229324,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "discountPercentage": "0"
+      },
+      "condition": "Good - Refurbished",
+      "conditionId": "2030",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kfEAAOSwBB5nNYt0/s-l500.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "5062777456",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/336031819166?_skw=iphone+15+pro+max&hash=item4e3d0ea59e:g:kfEAAOSwBB5nNYt0",
+      "itemLocation": {
+        "postalCode": "SW3***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1kYAAOSwMdBnNYt0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GKUAAOSwo-JnNYt0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/e6sAAOSwu5JnNYt0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kfAAAOSwBB5nNYt0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SyEAAOSwi95nNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/T~gAAOSwiGVnNYt0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/tgIAAOSwfLxnNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/f3oAAOSw78tnNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/q9oAAOSws7hnNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zO0AAOSw67dnNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yM0AAOSwmjpnNYtz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Ob8AAeSw~7pqjADe/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "336031819166",
+      "availableCoupons": true,
+      "itemOriginDate": "2025-06-24T09:42:22.000Z",
+      "itemCreationDate": "2025-06-24T09:42:22.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|117486274579|0",
+      "title": "Apple iPhone 15 Pro Max 256GB White iOS Smartphone, Wi\u2011Fi Bluetooth",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/-rUAAeSwRb5q3dpO/s-l225.jpg"
+      },
+      "price": {
+        "value": "486.10",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C117486274579%7C0",
+      "seller": {
+        "username": "o.g.88",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 265,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-rUAAeSwRb5q3dpO/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/117486274579?_skw=iphone+15+pro+max&hash=item1b5aba4813:g:-rUAAeSwRb5q3dpO",
+      "itemLocation": {
+        "postalCode": "HA0***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GZwAAeSw6s9q3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GdAAAeSwtx9q3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GhoAAeSwWitq3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Gc8AAeSwqKRq3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GjwAAeSwH-1q3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GawAAeSwOxNq3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GfIAAeSwXgdq3dpA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Gd0AAeSwG2Zq3dpB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GbIAAeSwRl5q3dpB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GikAAeSwIQVq3dpB/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "117486274579",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T10:32:53.000Z",
+      "itemCreationDate": "2026-10-25T10:32:53.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|128155126102|0",
+      "title": "Apple iPhone 15 Pro Max 256GB Natural Titanium \u2013 Fully Working \u2013 Great Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/OoMAAeSw~K9q233D/s-l225.jpg"
+      },
+      "price": {
+        "value": "440.20",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C128155126102%7C0",
+      "seller": {
+        "username": "johnsuk.lorhxycy",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 6,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OoMAAeSw~K9q233D/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/128155126102?_skw=iphone+15+pro+max&hash=item1dd6a40956:g:OoMAAeSw~K9q233D",
+      "itemLocation": {
+        "postalCode": "AL7***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2fMAAeSw2MNq2324/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5c8AAeSw8Ddq2324/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6tgAAeSwqmZq2324/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "128155126102",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-23T15:40:11.000Z",
+      "itemCreationDate": "2026-10-25T07:23:58.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|389644675831|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Unlocked - Natural Titanium - Good Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/wIkAAeSwR-xply0f/s-l225.jpg"
+      },
+      "price": {
+        "value": "504.69",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C389644675831%7C0",
+      "seller": {
+        "username": "musicmagpie",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 14092427,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "discountPercentage": "0"
+      },
+      "condition": "Good - Refurbished",
+      "conditionId": "2030",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/wIkAAeSwR-xply0f/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/389644675831?_skw=iphone+15+pro+max&hash=item5ab8a1eaf7:g:wIkAAeSwR-xply0f",
+      "itemLocation": {
+        "postalCode": "SK7***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3roAAeSw7l5plyaE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7b8AAOSwbpNkT3Ei/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/z-UAAeSw71Nply0g/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/g78AAeSw4u1ply0f/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "389644675831",
+      "availableCoupons": true,
+      "itemOriginDate": "2026-02-19T15:33:17.000Z",
+      "itemCreationDate": "2026-02-19T15:33:46.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|297490780305|594925883841",
       "title": "Genuine empty Apple iPhone 15, iPhone 15 Plus, 15 Pro, 15 Pro Max Empty Box",
       "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=297490780305",
       "leafCategoryIds": [
@@ -1542,15 +2226,15 @@
         "imageUrl": "https://i.ebayimg.com/images/g/CQMAAeSwIQ9ogVb0/s-l225.jpg"
       },
       "price": {
-        "value": "8.99",
+        "value": "6.99",
         "currency": "GBP"
       },
       "itemGroupType": "SELLER_DEFINED_VARIATIONS",
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297490780305%7C594925883827",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C297490780305%7C594925883841",
       "seller": {
         "username": "phonesaloud",
         "feedbackPercentage": "99.5",
-        "feedbackScore": 60860,
+        "feedbackScore": 60993,
         "sellerAccountType": "BUSINESS"
       },
       "condition": "Used",
@@ -1567,8 +2251,8 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
@@ -1597,19 +2281,15 @@
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|237117348110|0",
-      "title": "iphone 15 pro max 256gb unlocked Perfect Condition",
+      "itemId": "v1|820258222268|0",
+      "title": "iPhone 15 Pro Max 512GB Blue Titanium Unlocked 87% Battery",
       "leafCategoryIds": [
-        "42425"
+        "9355"
       ],
       "categories": [
         {
-          "categoryId": "42425",
-          "categoryName": "Other Mobile Phone Accessories"
-        },
-        {
-          "categoryId": "9394",
-          "categoryName": "Mobile Phone Accessories"
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
         },
         {
           "categoryId": "15032",
@@ -1617,68 +2297,76 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/8TIAAeSwMXpqyhAt/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/~UUAAeSwsPZq1zAZ/s-l225.jpg"
       },
       "price": {
-        "value": "470.00",
+        "value": "510.00",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C237117348110%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C820258222268%7C0",
       "seller": {
-        "username": "polop_53",
+        "username": "sgoldswo",
         "feedbackPercentage": "100.0",
-        "feedbackScore": 171,
-        "sellerAccountType": "BUSINESS"
+        "feedbackScore": 1597,
+        "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/8TIAAeSwMXpqyhAt/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/~UUAAeSwsPZq1zAZ/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
         {
           "shippingCostType": "FIXED",
           "shippingCost": {
-            "value": "3.01",
+            "value": "11.95",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-22T23:00:00.000Z",
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
           "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/237117348110?_skw=iphone+15+pro+max&hash=item37354b990e:g:8TIAAeSwMXpqyhAt",
+      "epid": "14062759550",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/820258222268?_skw=iphone+15+pro+max&hash=itembefb3330bc:g:~UUAAeSwsPZq1zAZ",
       "itemLocation": {
-        "postalCode": "IM2***",
+        "postalCode": "AL9***",
         "country": "GB"
       },
+      "energyEfficiencyClass": "A",
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/8KAAAeSw1WJqyhAt/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/pmcAAeSw49lq1zAZ/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/3uIAAeSwq1dqyhAt/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/A4IAAeSwrYJq1zAZ/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/7swAAeSwpcpqyhAt/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/ZeEAAeSwcq1q1zAZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ETYAAeSwjI1q1zAZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SpAAAeSwbOtq1zAZ/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "237117348110",
+      "legacyItemId": "820258222268",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-10T10:17:15.000Z",
-      "itemCreationDate": "2026-10-10T10:17:15.000Z",
+      "itemOriginDate": "2026-10-20T09:14:40.000Z",
+      "itemCreationDate": "2026-10-20T09:14:40.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|227572621326|0",
-      "title": "Apple iPhone 15 Pro Max 256GB White Titanium Vodafone",
+      "itemId": "v1|198727800288|0",
+      "title": "iphone 15 pro max 256gb Unlocked",
       "leafCategoryIds": [
         "42425"
       ],
@@ -1697,24 +2385,206 @@
         }
       ],
       "image": {
-        "imageUrl": "https://i.ebayimg.com/images/g/l4YAAeSwcdxq1KYi/s-l225.jpg"
+        "imageUrl": "https://i.ebayimg.com/images/g/cbkAAeSwTgdq1hcI/s-l225.jpg"
       },
       "price": {
-        "value": "380.00",
+        "value": "567.70",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227572621326%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198727800288%7C0",
       "seller": {
-        "username": "thecapsuleco",
+        "username": "laff_3655",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 3,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/cbkAAeSwTgdq1hcI/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.80",
+            "currency": "GBP"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "AUCTION"
+      ],
+      "bidCount": 0,
+      "currentBidPrice": {
+        "value": "363.70",
+        "currency": "GBP"
+      },
+      "itemWebUrl": "https://www.ebay.co.uk/itm/198727800288?_skw=iphone+15+pro+max&hash=item2e451995e0:g:cbkAAeSwTgdq1hcI",
+      "itemLocation": {
+        "postalCode": "CW12***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EF4AAeSwvXhq1hcI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/S7wAAeSwCChq1hcI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IKsAAeSwTwpq1hcI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mHsAAeSwfm1q1hjR/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "198727800288",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-19T19:00:01.000Z",
+      "itemCreationDate": "2026-10-19T19:00:01.000Z",
+      "itemEndDate": "2026-10-26T20:00:01.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|800760455830|0",
+      "title": "iPhone 14 Pro Max 512GB",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QpQAAeSw5tVqw7e-/s-l225.jpg"
+      },
+      "price": {
+        "value": "363.70",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C800760455830%7C0",
+      "seller": {
+        "username": "wil-210012",
         "feedbackPercentage": "0.0",
-        "feedbackScore": 93,
+        "feedbackScore": 0,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QpQAAeSw5tVqw7e-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "10056260137",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/800760455830?_skw=iphone+15+pro+max&hash=itemba710ae296:g:QpQAAeSw5tVqw7e-",
+      "itemLocation": {
+        "postalCode": "TW10***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Zg4AAeSw-1pqw7e~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XwsAAeSw0tdqw7nF/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/eTQAAeSwfMdqw7nO/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/fJ8AAeSwKMlqw7ni/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dCoAAeSwd25qw7ou/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EBIAAeSwT7lqxmHp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/uIsAAeSwvflqxmHp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9tgAAeSwmIhqxmHp/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "800760455830",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-05T14:55:38.000Z",
+      "itemCreationDate": "2026-10-05T14:55:38.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|407306332175|0",
+      "title": "iPhone 15 Pro Max 256gb   (Unlocked) Excellent Condition A++ BLUE Titanium",
+      "leafCategoryIds": [
+        "42425"
+      ],
+      "categories": [
+        {
+          "categoryId": "42425",
+          "categoryName": "Other Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/BSgAAeSwOQFqIsQj/s-l225.jpg"
+      },
+      "price": {
+        "value": "499.99",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C407306332175%7C0",
+      "seller": {
+        "username": "sands-phones",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1188,
         "sellerAccountType": "BUSINESS"
       },
       "condition": "Used",
       "conditionId": "3000",
       "thumbnailImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/l4YAAeSwcdxq1KYi/s-l1600.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/BSgAAeSwOQFqIsQj/s-l1600.jpg"
         }
       ],
       "shippingOptions": [
@@ -1724,86 +2594,571 @@
             "value": "0.00",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-21T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-23T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/407306332175?_skw=iphone+15+pro+max&hash=item5ed559680f:g:BSgAAeSwOQFqIsQj",
+      "itemLocation": {
+        "postalCode": "B19***",
+        "country": "GB"
+      },
+      "adultOnly": false,
+      "legacyItemId": "407306332175",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-21T13:31:09.000Z",
+      "itemCreationDate": "2026-10-21T13:31:09.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|257815666279|0",
+      "title": "iPhone 18 Pro Max, 256 GB , unlocked Glacier blue",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/UzEAAeSwDFZq3PkI/s-l225.jpg"
+      },
+      "price": {
+        "value": "1179.70",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257815666279%7C0",
+      "seller": {
+        "username": "ltnec7",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 501,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UzEAAeSwDFZq3PkI/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "239165288",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/257815666279?_skw=iphone+15+pro+max&hash=item3c0702de67:g:UzEAAeSwDFZq3PkI&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lUcm2WqPTVZN%2BDv2rWAe%2FpuFxkf2iMo56OCdPYd7I1n0Ve7J7Ytjp75YzwKA6FtHK43rQ2IlAeWdjlji6BudG9UDc8kew%2BN0dXNobHGuy03wG25e5UcHjuO3TqT2xgvLo%2FRa0e0kSbuv5KAm57cughB01fj49tmk%2FGinJt2gi4p9m0o680j2FRI1KPsZu9UHLdKQKmy6hJCCgOj%2BSafdI8Hh3K8ZxCGVQRYxH%2Fv2tkoXelhULTzYDl5aztIw6hhC%2BPZa0WgBkQVqVn3QRRsnOjp3Rem4pT1vOafEdcdWE0oA%3D%3D",
+      "itemLocation": {
+        "postalCode": "CR0***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/K3UAAeSw6uFq3PkI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TWUAAeSw5Ohq3PkJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TscAAeSwjPpq3PkJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LaoAAeSwE5lq3PkK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/LbMAAeSw121q3PkK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TtIAAeSwX9Rq3PkK/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "257815666279",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-24T18:31:38.000Z",
+      "itemCreationDate": "2026-10-24T18:31:38.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|227582751772|0",
+      "title": "iPhone 13 Pro Max 512GB Unlocked Graphite Grey EXCELLENT CONDITION  used",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Rb8AAeSwV0xq3di7/s-l225.jpg"
+      },
+      "price": {
+        "value": "353.50",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C227582751772%7C0",
+      "seller": {
+        "username": "franky271168",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 558,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Rb8AAeSwV0xq3di7/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "7.58",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE",
         "BEST_OFFER"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/227572621326?_skw=iphone+15+pro+max&hash=item34fc62a00e:g:l4YAAeSwcdxq1KYi",
+      "epid": "11105274657",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/227582751772?_skw=iphone+15+pro+max&hash=item34fcfd341c:g:Rb8AAeSwV0xq3di7&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kbznHEesCNCSZkdtbWktz40k9FY2KpaBsmpaZUw0kRmTMu6GtzfmGVwiwI08dMuaGQkbLcJVo7RHOP8ksTOI3OpyL%2BXEgYIwkyOV0OTo6dbQit7WYFLsXIbdKZe2GRSFNuzFEjdqMNut1ZF%2BNyndzj4B7yeIMAz9KXrmeSZF0JPEXRZWfC6YInIsPTzI4Fjqwfr38iwfES%2B%2BdiZTSo7kHkFUxuDb0Ee8vcAojbZMXHefwiJwWWrLMkQqnQBZ60ELS6CFKMaemYM9N2c2TvdENUGy6wEqfi1OCouafgq%2Bo1Mg%3D%3D",
       "itemLocation": {
-        "postalCode": "SW10***",
+        "postalCode": "UB7***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IcEAAeSwYmBq3djB/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KxMAAeSw9bRq3djI/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/J48AAeSwiGdq3djM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/njYAAeSw-EZq3djQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FkAAAeSwI5Fq3djV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/zk8AAeSwsKZq3djd/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~-kAAeSwZAxq3dji/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EUgAAeSweENq3djm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4R0AAeSwFBtq3djq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/w5cAAeSwsZJq3djw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/FyYAAeSw-Bdq3dj3/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JM4AAeSwKGJq3dj~/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/E7YAAeSwJ4hq3dkD/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~h4AAeSw26lq3dkJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/J14AAeSwHTBq3dkN/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "227582751772",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T10:42:52.000Z",
+      "itemCreationDate": "2026-10-25T10:42:52.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|257815706614|0",
+      "title": "iPhone 18 Pro Max Burgundy, 256gb, unlocked NEW",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QMIAAeSwGaZq3QFu/s-l225.jpg"
+      },
+      "price": {
+        "value": "1179.70",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257815706614%7C0",
+      "seller": {
+        "username": "ltnec7",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 501,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QMIAAeSwGaZq3QFu/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "14023706675",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/257815706614?_skw=iphone+15+pro+max&hash=item3c07037bf6:g:QMIAAeSwGaZq3QFu&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7m5jsVgYdjQ3tBBj6E7%2BQUYU9l9ZXR86i23FHeDjXu5tblZAcZCuZpsXvhuSk1DwWXpKNGiOUWv3r7DZuug0Ez3Px2i2xYRu1NATduAlCS5pQlrbKFRWGKrWGiyOCtkf1T5SxZEVLJHvwjTSRWfwHzRaof4Xuy5goQtTuF3BO1imlCj%2BCUmoXINFmDZrlFzdCU9TdLxN%2Bo31HU0szWu3GWWxtR5M1VqyOHhfUKaKI1nvAxpc%2BYcBQH7T1joPxFzz5vsJcC7BO0UwJb8bJbj9KnwAiU3%2FczSzwoAWZtVe%2FlNaA%3D%3D",
+      "itemLocation": {
+        "postalCode": "CR0***",
         "country": "GB"
       },
       "additionalImages": [
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/qcUAAeSwKxxq1KYg/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/TU4AAeSwUgtq3QFv/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/n0YAAeSwpNZq1KYh/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/T4QAAeSwW8Rq3QFv/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/PjgAAeSwXqBq1KYU/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/VikAAeSwDFZq3QG5/s-l225.jpg"
         },
         {
-          "imageUrl": "https://i.ebayimg.com/images/g/fWMAAeSwcP1q1KYR/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/VJgAAeSwOaxq1KYV/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/ww0AAeSwBoFq1KYS/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/620AAeSwQcNq1KYV/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/v~oAAeSw6LVq1KYP/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/shgAAeSw9JRq1KYQ/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/Ls8AAeSwBxNq1KYS/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/n98AAeSwxw1q1KYW/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/Hq4AAeSw2XRq1KYV/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/a7oAAeSwHWZq1KYc/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/LbEAAeSwS09q1KYZ/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/oM4AAeSwF9xq1KYd/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/YeAAAeSwXfxq1KYd/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/lJUAAeSw~gBq1KYh/s-l225.jpg"
-        },
-        {
-          "imageUrl": "https://i.ebayimg.com/images/g/YWkAAeSwDMRq1KHi/s-l225.jpg"
+          "imageUrl": "https://i.ebayimg.com/images/g/VhQAAeSwd~lq3QG5/s-l225.jpg"
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "227572621326",
+      "legacyItemId": "257815706614",
       "availableCoupons": false,
-      "itemOriginDate": "2026-10-18T11:06:49.000Z",
-      "itemCreationDate": "2026-10-18T11:06:49.000Z",
+      "itemOriginDate": "2026-10-24T19:10:52.000Z",
+      "itemCreationDate": "2026-10-24T19:10:52.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|377596207294|0",
+      "title": "iPhone 15 Pro Max DD Color Original Soft Oled 120Hz Display Screen Replacement",
+      "leafCategoryIds": [
+        "43304"
+      ],
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Mobile Phone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/8GEAAeSwKX9qh06X/s-l225.jpg"
+      },
+      "price": {
+        "value": "65.00",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C377596207294%7C0",
+      "seller": {
+        "username": "whguru13",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 312,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8GEAAeSwKX9qh06X/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/377596207294?_skw=iphone+15+pro+max&hash=item57ea7ce0be:g:8GEAAeSwKX9qh06X&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7ldYdniVR6J%2BODREtIk9kC6%2FO4oQFJa7FTG2uLAajCvsGj5qKwUqpPPCDEEV7hYCOozB2TcbnnrJ1Anf3R6goO3ToRf0qHD76lXKI5Eny%2BkoJ5zZ2nRIwbqG84Ur5%2BOuaSoIzTRAg%2BUMyIpKLk3UUKq3ZEM9hwgagt1oFbGjCnfr4sftXWpzKlOdhr31OBP412x0jNEWDOjVkSEqQEvGSgm29K0Eb1y%2B2tP2SoubvBypZMUcZXh0xoG%2FXcaVkOAOfzxWCwSKbHmzZYGavO91t3ViOck186iT7xLEp9vxrKhTQ%3D%3D",
+      "itemLocation": {
+        "postalCode": "BS1***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4kIAAeSwuTdqh06X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Yk0AAeSw3EVqh06X/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YkwAAeSw3EVqh06X/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "unitPricingMeasure": "Unit",
+      "unitPrice": {
+        "value": "65.00",
+        "currency": "GBP"
+      },
+      "legacyItemId": "377596207294",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-08-20T19:04:40.000Z",
+      "itemCreationDate": "2026-10-25T09:21:45.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|398447241036|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Blue Titanium (Unlocked)",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/Qc8AAeSwZztqvRK-/s-l225.jpg"
+      },
+      "price": {
+        "value": "464.95",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C398447241036%7C0",
+      "seller": {
+        "username": "rerunit22",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 123,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Qc8AAeSwZztqvRK-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "24062761146",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/398447241036?_skw=iphone+15+pro+max&hash=item5cc54e674c:g:Qc8AAeSwZztqvRK-",
+      "itemLocation": {
+        "postalCode": "OX26***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SkAAAeSwGgtqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QWYAAeSwZztqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PmYAAeSwOoxqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TjoAAeSw8mBqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NP0AAeSwBrlqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/VnEAAeSw6fBqvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dsQAAeSwoH1qvRKz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/SZIAAeSwms9qvRK0/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "398447241036",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-09-30T13:47:27.000Z",
+      "itemCreationDate": "2026-09-30T13:47:27.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": false,
       "listingMarketplaceId": "EBAY_GB"
     },
     {
-      "itemId": "v1|820256987145|0",
+      "itemId": "v1|386451598399|653894689661",
+      "title": "Apple iPhone 15 Pro Max - All Sizes & Colours - Unlocked - Good Condition",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=386451598399",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/0q8AAOSwaNpnMiw~/s-l225.jpg"
+      },
+      "price": {
+        "value": "504.69",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C386451598399%7C653894689661",
+      "seller": {
+        "username": "musicmagpie",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 14092427,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "1199.00",
+          "currency": "GBP"
+        },
+        "discountPercentage": "58",
+        "discountAmount": {
+          "value": "694.31",
+          "currency": "GBP"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "condition": "Good - Refurbished",
+      "conditionId": "2030",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/0q8AAOSwaNpnMiw~/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "17062769388",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/386451598399?_skw=iphone+15+pro+max&hash=item59fa4f6c3f:g:0q8AAOSwaNpnMiw~",
+      "itemLocation": {
+        "postalCode": "SK7***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Mc8AAOSwioJkT3El/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7b8AAOSwbpNkT3Ei/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "386451598399",
+      "availableCoupons": true,
+      "itemOriginDate": "2023-12-18T10:17:56.000Z",
+      "itemCreationDate": "2023-12-18T10:17:56.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|820270086139|0",
       "title": "Apple iPhone 15 Pro Max 512GB black Smartphone",
       "leafCategoryIds": [
         "9355"
@@ -1822,14 +3177,14 @@
         "imageUrl": "https://i.ebayimg.com/images/g/oxIAAeSw3NZq1pro/s-l225.jpg"
       },
       "price": {
-        "value": "435.10",
+        "value": "440.20",
         "currency": "GBP"
       },
-      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C820256987145%7C0",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C820270086139%7C0",
       "seller": {
         "username": "ecoveragadgets",
         "feedbackPercentage": "99.0",
-        "feedbackScore": 722,
+        "feedbackScore": 729,
         "sellerAccountType": "INDIVIDUAL"
       },
       "condition": "Used",
@@ -1846,14 +3201,14 @@
             "value": "11.95",
             "currency": "GBP"
           },
-          "minEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z",
-          "maxEstimatedDeliveryDate": "2026-10-20T23:00:00.000Z"
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
         }
       ],
       "buyingOptions": [
         "FIXED_PRICE"
       ],
-      "itemWebUrl": "https://www.ebay.co.uk/itm/820256987145?_skw=iphone+15+pro+max&hash=itembefb205809:g:oxIAAeSw3NZq1pro",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/820270086139?_skw=iphone+15+pro+max&hash=itembefbe837fb:g:oxIAAeSw3NZq1pro",
       "itemLocation": {
         "postalCode": "OX4***",
         "country": "GB"
@@ -1903,12 +3258,1555 @@
         }
       ],
       "adultOnly": false,
-      "legacyItemId": "820256987145",
+      "legacyItemId": "820270086139",
       "availableCoupons": false,
       "itemOriginDate": "2026-10-19T22:36:43.000Z",
-      "itemCreationDate": "2026-10-19T22:36:43.000Z",
+      "itemCreationDate": "2026-10-23T17:03:39.000Z",
       "topRatedBuyingExperience": false,
       "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|267821686480|0",
+      "title": "Apple iPhone 15 Pro Max - 512GB - Natural Titanium \u2013 Excellent Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/yBIAAeSwp-xq23Mo/s-l225.jpg"
+      },
+      "price": {
+        "value": "505.48",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267821686480%7C0",
+      "seller": {
+        "username": "cjef4160",
+        "feedbackPercentage": "88.9",
+        "feedbackScore": 153,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yBIAAeSwp-xq23Mo/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "10062774544",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/267821686480?_skw=iphone+15+pro+max&hash=item3e5b6a9ed0:g:yBIAAeSwp-xq23Mo",
+      "itemLocation": {
+        "postalCode": "E15***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5YwAAeSwJtlq23Mp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4JsAAeSw2DZq23Mq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/33cAAeSwCzxq23Mq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5GIAAeSw2HNq23Mq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5X8AAeSwrUJq23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/BCYAAeSwODlq23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/39wAAeSw~q1q23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4msAAeSwFhZq23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1XQAAeSw48dq23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4w0AAeSwOZtq23Mr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5GUAAeSw2HNq23Ms/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "267821686480",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-23T14:49:25.000Z",
+      "itemCreationDate": "2026-10-23T14:49:25.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|257816929556|0",
+      "title": "apple iphone 15 pro blue titanium 256gb unlocked",
+      "leafCategoryIds": [
+        "42425"
+      ],
+      "categories": [
+        {
+          "categoryId": "42425",
+          "categoryName": "Other Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4okAAeSwzzpq3fy0/s-l225.jpg"
+      },
+      "price": {
+        "value": "414.70",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C257816929556%7C0",
+      "seller": {
+        "username": "adriansound67",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 423,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4okAAeSwzzpq3fy0/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "3.92",
+            "currency": "GBP"
+          }
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "AUCTION"
+      ],
+      "bidCount": 0,
+      "currentBidPrice": {
+        "value": "137.23",
+        "currency": "GBP"
+      },
+      "itemWebUrl": "https://www.ebay.co.uk/itm/257816929556?_skw=iphone+15+pro+max&hash=item3c07162514:g:4okAAeSwzzpq3fy0",
+      "itemLocation": {
+        "postalCode": "GU47***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4CUAAeSwQPhq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/2wEAAeSw4-Zq3fyz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HSgAAeSwN7lq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/yW4AAeSwfmdq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6EUAAeSw76lq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4AAAAeSw-Bdq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1xgAAeSwgfhq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1s0AAeSw-UNq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/8mkAAeSwk7Nq3fy0/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/pKsAAeSwfYdq3fyz/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7lgAAeSwNYRq3fyz/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "257816929556",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T12:58:40.000Z",
+      "itemCreationDate": "2026-10-25T12:58:40.000Z",
+      "itemEndDate": "2026-11-01T12:58:40.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|407315083802|0",
+      "title": "Apple iPhone 15 Pro Max 256GB UNLOCKED 86battery health ",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/JD0AAeSw0OJq3esn/s-l225.jpg"
+      },
+      "price": {
+        "value": "475.90",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C407315083802%7C0",
+      "seller": {
+        "username": "enba3557",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 199,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JD0AAeSw0OJq3esn/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "3.65",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/407315083802?_skw=iphone+15+pro+max&hash=item5ed5def21a:g:JD0AAeSw0OJq3esn",
+      "itemLocation": {
+        "postalCode": "NW4***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JBwAAeSw8-Bq3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JDEAAeSwgx1q3esn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JDkAAeSwAbBq3esn/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JLEAAeSw4I1q3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JC8AAeSwJsBq3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JBcAAeSwWFpq3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I8UAAeSwhAtq3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JGYAAeSwCgBq3eso/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JSkAAeSwVKRq3esp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JB0AAeSwXQVq3esp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IxIAAeSw-5tq3esp/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "407315083802",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-25T11:43:47.000Z",
+      "itemCreationDate": "2026-10-25T11:43:47.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|226620599438|525833495701",
+      "title": "Apple iPhone 15/15 Pro/16/16 Pro Max/14/13/12 Unlocked Smartphone Pristine A++",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=226620599438",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/3LAAAOSwMA9nwc0V/s-l225.jpg"
+      },
+      "price": {
+        "value": "194.99",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C226620599438%7C525833495701",
+      "seller": {
+        "username": "savermart",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 24362,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "325.00",
+          "currency": "GBP"
+        },
+        "discountPercentage": "40",
+        "discountAmount": {
+          "value": "130.01",
+          "currency": "GBP"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "condition": "Opened \u2013 never used",
+      "conditionId": "1500",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3LAAAOSwMA9nwc0V/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "9043224283",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/226620599438?_skw=iphone+15+pro+max&hash=item34c3a3ec8e:g:3LAAAOSwMA9nwc0V&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7kjKHDwVgVbZtxC%2FvzK5yIjREl2Gyq4g6zca4yNHA75I5FGwDrQa4OmHnmFEmdWSa%2FdogVWOsKI4NTModwx%2BAof9etRfgu7QB3ZmwZ7wESk2HLDKmlIIy0manDHDkG%2FhFgXZ6Ne72C%2FkiVEd8G4kMwlLiEgVNhsQS6m3ogP3ulbVkWgRTkq7P9kDY%2BwHSEt%2BvF4XPGylayn6UTc%2F%2B5iG3DQu9pZMPGA6r2yITWWmtyFLg%2Fu6ISy7zMlNnYhjYW5%2Fz5kLVXB5JTLyvBSsOVymFgdX%2BLKEdE1dP32aVOH%2B5x%2BhA%3D%3D",
+      "itemLocation": {
+        "postalCode": "M8***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qqEAAOSwNohn2vDx/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/bdAAAOSw2~Jn2vDw/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/poYAAOSwWuNn2vDy/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HKoAAOSwaulnwDOA/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W2kAAOSwDpxnwDKK/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QCIAAOSwmtdnwDKY/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QNsAAOSwJAtnwDKh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/k0kAAOSwcTxnwDPT/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ulgAAOSwf45nwDPl/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DrgAAOSwYH1nwDRu/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/N40AAOSw9YNnwDMM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/lu8AAOSwGlZnwDML/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XdsAAOSwfJ9nwDMM/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GL8AAOSwnKVnwDMN/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dZQAAOSwEzdnwDML/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3hEAAOSwPjpnwDMm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RQwAAOSwSRZnwDMi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/qZ0AAOSwNlJnwDMi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/T7IAAOSwkxFn2vEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/DbwAAOSwi2ln2vEd/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "unitPricingMeasure": "Unit",
+      "unitPrice": {
+        "value": "194.99",
+        "currency": "GBP"
+      },
+      "legacyItemId": "226620599438",
+      "availableCoupons": true,
+      "itemOriginDate": "2025-02-27T10:22:59.000Z",
+      "itemCreationDate": "2025-02-27T10:22:59.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|336814598575|546140843578",
+      "title": "Shockproof Magnetic Matte Case For iPhone 18 Pro Max 17 16 15 14 13 12 Plus ",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=336814598575",
+      "leafCategoryIds": [
+        "3314",
+        "20349"
+      ],
+      "categories": [
+        {
+          "categoryId": "3314",
+          "categoryName": "Pagers"
+        },
+        {
+          "categoryId": "20349",
+          "categoryName": "Cases, Covers & Skins"
+        },
+        {
+          "categoryId": "3286",
+          "categoryName": "Home Phones & Accessories"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/W8IAAeSw9rpquEk-/s-l225.jpg"
+      },
+      "price": {
+        "value": "6.59",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C336814598575%7C546140843578",
+      "seller": {
+        "username": "british_bargain_hub",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 6959,
+        "sellerAccountType": "BUSINESS"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W8IAAeSw9rpquEk-/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-11-04T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/336814598575?_skw=iphone+15+pro+max&hash=item4e6bb6e9af:g:W8IAAeSw9rpquEk-&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7lZ%2BBV5suk%2B3e8t9OFv%2FW%2BL4maHsbvuKCXk5gxWMRNbBHYrdNnCyOioN5wsD6Ywf8QLetpO%2FyuHq7ntFFk6z5m%2Buo%2FfOxERp%2BhRP4noupkcpl8Vw5UxdEjpPa9OLlLXy5DjF%2FrWkF6C9dZ2UL4kA5msH%2F9wt65JO6L0UQhfkIyANqnYr9imvM2oJzt1auIZkdV6PkHpwn4prFm7QA9SQ8fg7aSVdSRsOKpzyzGPA%2FKLO8MRwA2d0K2cUFBj2EJnAKU0WTPrOuY5kPy4Q6UZg9NIbKzziDQz%2FjgePPLm0q90TQ%3D%3D",
+      "itemLocation": {
+        "postalCode": "B20***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W84AAeSw55tquEkq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GOAAAeSwv91quEks/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/amAAAeSwmIRquEkr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NxcAAeSws~pquEks/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PVUAAeSwCjBquEks/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OOEAAeSwEkpquEks/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1d4AAeSwbz5quEko/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "unitPricingMeasure": "Unit",
+      "unitPrice": {
+        "value": "6.59",
+        "currency": "GBP"
+      },
+      "legacyItemId": "336814598575",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-09-26T22:50:57.000Z",
+      "itemCreationDate": "2026-09-26T22:50:57.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|168812224137|0",
+      "title": "Apple iPhone 15 Pro Max 512GB Unlocked",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/-3oAAeSwfO5q26d7/s-l225.jpg"
+      },
+      "price": {
+        "value": "516.70",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C168812224137%7C0",
+      "seller": {
+        "username": "damiahun_8",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 37,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-3oAAeSwfO5q26d7/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "15062770508",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/168812224137?_skw=iphone+15+pro+max&hash=item274dfe1e89:g:-3oAAeSwfO5q26d7",
+      "itemLocation": {
+        "postalCode": "WN3***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5oQAAeSwS45q26d8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9LIAAeSwv71q26d8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5p8AAeSwlxlq26d8/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YmsAAeSwUVZq26e4/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "168812224137",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-23T18:33:25.000Z",
+      "itemCreationDate": "2026-10-23T18:33:25.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|267801051837|0",
+      "title": "Apple iPhone 15 pro max white titanium 100% battery ",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/QuEAAeSwFY1qvsIf/s-l225.jpg"
+      },
+      "price": {
+        "value": "489.00",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C267801051837%7C0",
+      "seller": {
+        "username": "hai875",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 1034,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QuEAAeSwFY1qvsIf/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "10.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/267801051837?_skw=iphone+15+pro+max&hash=item3e5a2fc2bd:g:QuEAAeSwFY1qvsIf",
+      "itemLocation": {
+        "postalCode": "WR9***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NSIAAeSwik9qvsIP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Uq8AAeSw6H5qvsIP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UzQAAeSwLntqvsIP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TxIAAeSwcORqvsIP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UnYAAeSwQYpqvsIP/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QkUAAeSwuYxqvsIQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/JTMAAeSwupxqvsIQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TxMAAeSwcORqvsIQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/UukAAeSwpBFqvsIQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NS8AAeSwoONqvsIQ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/NTAAAeSwoONqvsIQ/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "267801051837",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-01T20:32:20.000Z",
+      "itemCreationDate": "2026-10-01T20:32:20.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|198742945865|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Black Titanium (Unlocked) - Next Day \ud83d\udce6",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/4kcAAeSwgzNq3Tc5/s-l225.jpg"
+      },
+      "price": {
+        "value": "399.00",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C198742945865%7C0",
+      "seller": {
+        "username": "amb777-9",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 6,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/4kcAAeSwgzNq3Tc5/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "17062769272",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/198742945865?_skw=iphone+15+pro+max&hash=item2e4600b049:g:4kcAAeSwgzNq3Tc5",
+      "itemLocation": {
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XOMAAeSwyEtq3Tco/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OyoAAeSwZLNq3Tco/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YcMAAeSwWw9q3Tcp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ThoAAeSwAmVq3Tcp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OXcAAeSwnolq3Tcp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/W~kAAeSwo7Nq3Tcp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Tq4AAeSw48dq3Tcp/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XYAAAeSwBaBq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PAsAAeSwKXBq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OqAAAeSwUENq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YV4AAeSw2HNq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OqEAAeSwUENq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/TA0AAeSwZr5q3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ZEMAAeSwIiFq3Tcq/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/XTQAAeSwjPpq3Tcr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Ol8AAeSwSGJq3Tcr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OcsAAeSw6uFq3Tcr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YOMAAeSweHBq3Tcr/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OWIAAeSwnvVq3Tcr/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "198742945865",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-24T22:59:24.000Z",
+      "itemCreationDate": "2026-10-24T22:59:24.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|307233863838|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Black - Unlocked - 5G Smartphone",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/YUoAAeSwEE5qz8Y5/s-l225.jpg"
+      },
+      "price": {
+        "value": "442.50",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C307233863838%7C0",
+      "seller": {
+        "username": "demand4tech",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 119,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/YUoAAeSwEE5qz8Y5/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "5.50",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "17062769272",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/307233863838?_skw=iphone+15+pro+max&hash=item478890b89e:g:YUoAAeSwEE5qz8Y5",
+      "itemLocation": {
+        "postalCode": "RH1***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Qs4AAeSwxW9qz8Sf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-zQAAeSwyQVqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~KsAAeSw9Hhqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/AAeSws7Jqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OMcAAeSwNhxqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/RMcAAeSwmYdqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OhMAAeSw9sxqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/QaIAAeSweyxqz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/9UkAAeSwxXdqz8Sf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/PYAAAeSwaZ5qz8Se/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-z4AAeSwyQVqz8Sf/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-kUAAeSwu4Fqz8Se/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "307233863838",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-14T19:25:01.000Z",
+      "itemCreationDate": "2026-10-16T19:00:01.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|298047104223|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Unlocked - Blue Titanium - Good Condition",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/5zEAAeSwWBxply1b/s-l225.jpg"
+      },
+      "price": {
+        "value": "504.69",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C298047104223%7C0",
+      "seller": {
+        "username": "musicmagpie",
+        "feedbackPercentage": "99.1",
+        "feedbackScore": 14092427,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "discountPercentage": "0"
+      },
+      "condition": "Good - Refurbished",
+      "conditionId": "2030",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5zEAAeSwWBxply1b/s-l960.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "8104999451",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/298047104223?_skw=iphone+15+pro+max&hash=item4564fde4df:g:5zEAAeSwWBxply1b",
+      "itemLocation": {
+        "postalCode": "SK7***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/3roAAeSw7l5plyaE/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7b8AAOSwbpNkT3Ei/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5F4AAeSwFd1ply1b/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/7SQAAeSwkI1ply1b/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "298047104223",
+      "availableCoupons": true,
+      "itemOriginDate": "2026-02-19T15:34:13.000Z",
+      "itemCreationDate": "2026-02-19T15:34:42.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|335625540977|545143770882",
+      "title": "Empty Box for iPhone 15, 15 PLUS, 15 PRO, 15 PRO MAX",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=335625540977",
+      "leafCategoryIds": [
+        "20349"
+      ],
+      "categories": [
+        {
+          "categoryId": "20349",
+          "categoryName": "Cases, Covers & Skins"
+        },
+        {
+          "categoryId": "9394",
+          "categoryName": "Mobile Phone Accessories"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/kvMAAOSwZvRnEuFI/s-l225.jpg"
+      },
+      "price": {
+        "value": "6.83",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335625540977%7C545143770882",
+      "seller": {
+        "username": "innofinity-worldwide",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 229324,
+        "sellerAccountType": "BUSINESS"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kvMAAOSwZvRnEuFI/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/335625540977?_skw=iphone+15+pro+max&hash=item4e24d75571:g:kvMAAOSwZvRnEuFI",
+      "itemLocation": {
+        "postalCode": "SW3***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/1DEAAOSwvzRlQ8MV/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/iS8AAOSw6NZnEuFH/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "335625540977",
+      "availableCoupons": false,
+      "itemOriginDate": "2024-10-18T22:29:59.000Z",
+      "itemCreationDate": "2024-10-18T22:29:59.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|880046871879|0",
+      "title": "iPhone 15 Pro Max 512GB Black Titanium Unlocked (Boxed) Excellent Condition!",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/HMQAAeSwlxlq3LZZ/s-l225.jpg"
+      },
+      "price": {
+        "value": "549.99",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C880046871879%7C0",
+      "seller": {
+        "username": "tenkay_00",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 373,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HMQAAeSwlxlq3LZZ/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "15062770508",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/880046871879?_skw=iphone+15+pro+max&hash=itemcce6e19547:g:HMQAAeSwlxlq3LZZ",
+      "itemLocation": {
+        "postalCode": "SN11***",
+        "country": "GB"
+      },
+      "energyEfficiencyClass": "A",
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MU4AAeSw9Hpq3LZZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Dc8AAeSwYrRq3LZZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/He4AAeSwjJBq3LZZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HVsAAeSwc6Rq3LZZ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MnoAAeSwd~lq3LZa/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/MtYAAeSw4wZq3LZa/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "880046871879",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-24T13:51:16.000Z",
+      "itemCreationDate": "2026-10-24T13:51:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|128114453922|0",
+      "title": "Apple iPhone 15 Pro Max - 256GB - Black Titanium (Unlocked) Fully Working Boxed",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/D7AAAeSwyDdqwmEf/s-l225.jpg"
+      },
+      "price": {
+        "value": "455.50",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C128114453922%7C0",
+      "seller": {
+        "username": "paradoxtrade",
+        "feedbackPercentage": "98.8",
+        "feedbackScore": 1225,
+        "sellerAccountType": "INDIVIDUAL"
+      },
+      "condition": "Used",
+      "conditionId": "3000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D7AAAeSwyDdqwmEf/s-l1600.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "11.95",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "epid": "17062769272",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/128114453922?_skw=iphone+15+pro+max&hash=item1dd4376da2:g:D7AAAeSwyDdqwmEf",
+      "itemLocation": {
+        "postalCode": "PE13***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EAIAAeSw-TtqwmEi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EVMAAeSw8GhqwmE1/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6tYAAeSw9xJqwmEm/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/GjgAAeSw7mBqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6HgAAeSwvflqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~UYAAeSwEwhqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ITcAAeSwQDVqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Hv0AAeSw-lxqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/-24AAeSwARVqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EUoAAeSw8GhqwmEg/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5kcAAeSwC0RqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/6i4AAeSwuVZqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/5mgAAeSwzNlqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~DQAAeSwoONqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IC4AAeSwtYNqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D8cAAeSwOxlqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/IC8AAeSwtYNqwmEh/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/D8sAAeSwmIhqwmEi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/~BQAAeSwbzBqwmEi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EKMAAeSwjLZqwmEi/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/ABsAAeSwhxNqwmKU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/EhkAAeSwJMNqwmKU/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/I9YAAeSwAnhqwmKm/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "128114453922",
+      "availableCoupons": false,
+      "itemOriginDate": "2026-10-04T14:55:41.000Z",
+      "itemCreationDate": "2026-10-04T14:55:41.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": false,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|256785208065|0",
+      "title": "iPhone 15 Pro Max High-Quality Replacement LCD Touch Screen Display Digitizer uk",
+      "leafCategoryIds": [
+        "43304"
+      ],
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Mobile Phone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/kHsAAOSwBjlniSYN/s-l225.jpg"
+      },
+      "price": {
+        "value": "22.74",
+        "currency": "GBP"
+      },
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C256785208065%7C0",
+      "seller": {
+        "username": "premiumtraders",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 27332,
+        "sellerAccountType": "BUSINESS"
+      },
+      "condition": "New",
+      "conditionId": "1000",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/kHsAAOSwBjlniSYN/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-29T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE",
+        "BEST_OFFER"
+      ],
+      "itemWebUrl": "https://www.ebay.co.uk/itm/256785208065?_skw=iphone+15+pro+max&hash=item3bc9975301:g:kHsAAOSwBjlniSYN&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7nU6Z7yYW2Admf8EezZjluQTcqEP8zlFxpAxpOs4eIkXiXUiHhNgB44P3WAbZtuwGDSagU0Db2D%2FgHF8xU1jgiqjOm%2FCqPc%2FAnKs4KzVZqwDhECYb%2BkHq%2BDHpGRRyFzfc5d38jcIYBcXMavz3gav866xZJ9W4%2FOFW9F2nfnaxrYqlkUcigZrJuigw05CTKzSb2KgDld8q76ThK71eWjrvyg6W%2F%2BndLp41hH4HL2MDRxzGMHfPo0E3QVOXTOy%2B8KVW10qJwgHohpE08FWI9r1Rxfjy%2FN1IpEDsyr9FiK7SdW9g%3D%3D",
+      "itemLocation": {
+        "postalCode": "E17***",
+        "country": "GB"
+      },
+      "adultOnly": false,
+      "unitPricingMeasure": "Unit",
+      "unitPrice": {
+        "value": "22.74",
+        "currency": "GBP"
+      },
+      "legacyItemId": "256785208065",
+      "availableCoupons": false,
+      "itemOriginDate": "2025-01-16T15:31:16.000Z",
+      "itemCreationDate": "2025-01-16T15:31:16.000Z",
+      "topRatedBuyingExperience": false,
+      "priorityListing": true,
+      "listingMarketplaceId": "EBAY_GB"
+    },
+    {
+      "itemId": "v1|335062616440|544288485366",
+      "title": "Apple iPhone 14 Pro Max - All Colours & Sizes - Unlocked - Excellent Condition",
+      "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=335062616440",
+      "leafCategoryIds": [
+        "9355"
+      ],
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Mobile & Smart Phones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Mobile Phones & Communication"
+        }
+      ],
+      "image": {
+        "imageUrl": "https://i.ebayimg.com/images/g/m3AAAOSwOmllFb3H/s-l225.jpg"
+      },
+      "price": {
+        "value": "419.99",
+        "currency": "GBP"
+      },
+      "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+      "itemHref": "https://api.ebay.com/buy/browse/v1/item/v1%7C335062616440%7C544288485366",
+      "seller": {
+        "username": "innofinity-worldwide",
+        "feedbackPercentage": "99.4",
+        "feedbackScore": 229324,
+        "sellerAccountType": "BUSINESS"
+      },
+      "marketingPrice": {
+        "originalPrice": {
+          "value": "1199.99",
+          "currency": "GBP"
+        },
+        "discountPercentage": "65",
+        "discountAmount": {
+          "value": "780.00",
+          "currency": "GBP"
+        },
+        "priceTreatment": "LIST_PRICE"
+      },
+      "condition": "Excellent - Refurbished",
+      "conditionId": "2010",
+      "thumbnailImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/m3AAAOSwOmllFb3H/s-l1200.jpg"
+        }
+      ],
+      "shippingOptions": [
+        {
+          "shippingCostType": "FIXED",
+          "shippingCost": {
+            "value": "0.00",
+            "currency": "GBP"
+          },
+          "minEstimatedDeliveryDate": "2026-10-27T00:00:00.000Z",
+          "maxEstimatedDeliveryDate": "2026-10-28T00:00:00.000Z"
+        }
+      ],
+      "buyingOptions": [
+        "FIXED_PRICE"
+      ],
+      "epid": "14056251775",
+      "itemWebUrl": "https://www.ebay.co.uk/itm/335062616440?_skw=iphone+15+pro+max&hash=item4e0349c978:g:m3AAAOSwOmllFb3H&amdata=enc%3AAQALAAAA8Of5zIIojhOf%2BkQK%2Bxzjn7mRSe9lM%2Bjx7pIyLtFs0LZJkirPyZvCcHqe2CJ9CrCaVwRVWiRw8kKRYTtdL6EoBizJgRRnB%2FOjbzkV9jwJt0siCk0YsxOPeKfyLBOyOzPg5qG4CHonFEjgahEInewJMqcwy3GMfK4Ciwqx4gF%2BGFC%2F5ezbLS4589qAP%2BAJRUfGv7NtIbBGbP7bwc0%2BOxLdWf8cdZcYe%2BqCVQvWAi4w44S53nN%2F1oRtcXx%2Fhkjxj8kvC2D30r6DvZ2mjgNrCXZlZp%2BPC1qqWaZ0c7RLDtx%2FFzV3yukFA0v7GaIFfRQ9lhTkaQ%3D%3D",
+      "itemLocation": {
+        "postalCode": "SW3***",
+        "country": "GB"
+      },
+      "additionalImages": [
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/w78AAOSwBk5lItpJ/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/HNIAAOSwtn1lFbRC/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/mO0AAOSwAExlFb3e/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/KKMAAOSwB89lFb3h/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/OjsAAOSwAFZlFb3o/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/Y80AAOSwSjNlFb30/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/S~UAAOSwQPplFb39/s-l225.jpg"
+        },
+        {
+          "imageUrl": "https://i.ebayimg.com/images/g/dOcAAeSwPdNqi~3s/s-l225.jpg"
+        }
+      ],
+      "adultOnly": false,
+      "legacyItemId": "335062616440",
+      "availableCoupons": false,
+      "itemOriginDate": "2023-10-08T16:45:11.000Z",
+      "itemCreationDate": "2023-10-08T16:45:11.000Z",
+      "topRatedBuyingExperience": true,
+      "priorityListing": true,
       "listingMarketplaceId": "EBAY_GB"
     }
   ]
