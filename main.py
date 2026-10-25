@@ -3,6 +3,11 @@ import sys
 import json
 from fetch_listings import get_token, search_listings
 from evaluation import removeblacklists,totalcost,median,listprices,remove_outliers,deviation,cv,filter_model,filter_variants
+from profit import profit
+weight=0.3
+length=20.0
+width=12.0
+height=4.0
 def find_deals(query):
     if os.getenv("APP_ID"):
         token=get_token()
@@ -19,20 +24,20 @@ def find_deals(query):
     if len(prices)==0:
         print("no listings left after filtering")
         return
-    # base=median(prices)
-    # print("baseline median:", base)
-    # print("cv:", round(cv(prices),1))
-    # newitemSummaries=[]
-    # for item in data["itemSummaries"]:
-    #     if totalcost(item) in prices:
-    #         newitemSummaries.append(item)
-    # data["itemSummaries"]=newitemSummaries
-    # for item in data["itemSummaries"]:
-    #     cost=totalcost(item)
-    #     d=deviation(base,cost)
-    #     if d>20:
-    #         print(item["title"], cost, round(d,1),item["itemWebUrl"])
-    print(data["itemSummaries"][0])
+    base=median(prices)
+    print("baseline median:", base)
+    print("cv:", round(cv(prices),1))
+    newitemSummaries=[]
+    for item in data["itemSummaries"]:
+        if totalcost(item) in prices:
+            newitemSummaries.append(item)
+    data["itemSummaries"]=newitemSummaries
+    for item in data["itemSummaries"]:
+        cost=totalcost(item)
+        d=deviation(base,cost)
+        p=profit(base,cost,weight,length,width,height)
+        if d>10 and p>40:
+            print(item["title"],",total cost:", cost,",deviation:", round(d,1),",profit:",p,item["itemWebUrl"])
 def main():
     print("Marketplace Intelligence started.")
     while True:
