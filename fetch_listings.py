@@ -70,9 +70,7 @@ def searchsoldlistings(keyword,itemCondition:str="any"):
                 return[]
 if __name__=="__main__":
         query=[input("What is your search")]
-        condition=input("What condition")
-        categoryId=input("What CategoryID(phones=9355)")
-        results=searchsoldlistings(categoryId,query,condition)
+        results=searchsoldlistings(query)
         if results:
                 with open("sold_data.json","w",encoding="utf-8") as f:
                         json.dump(results,f,indent=4)
