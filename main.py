@@ -36,12 +36,12 @@ def find_deals(query):
     print("cv:", round(cv(soldprices),1))
     newitemSummaries=[]
     for item in data["itemSummaries"]:
-        if totalcost(item) in activeprices:
+        if round(totalcost(item),2) in activeprices:
             newitemSummaries.append(item)
     data["itemSummaries"]=newitemSummaries
     newitemSummaries=[]
     for item in sold_list["itemSummaries"]:
-        if totalcost(item) in soldprices:
+        if round(totalcost(item),2) in soldprices:
             newitemSummaries.append(item)
     sold_list["itemSummaries"]=newitemSummaries
     for item in data["itemSummaries"]:
