@@ -17,7 +17,7 @@ def totalcost(item):
     shipping=0
     if item.get("shippingOptions"):
         shipping=float(item["shippingOptions"][0]["shippingCost"]["value"])
-    return price+shipping
+    return round(price+shipping,2)
 def filter_model(data,query):
     numbers=[w for w in query.lower().split() if w.isdigit()]
     kept=[]
