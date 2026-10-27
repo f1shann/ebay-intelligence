@@ -23,6 +23,7 @@ def showremoved(before,after):
 def conditionfix(conditionId):
     if conditionId is None:
         return None
+    conditionId=int(conditionId)
     if conditionId in (1000,1750):
         return "New"
     if conditionId==1500:
