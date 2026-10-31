@@ -1,18 +1,8 @@
 import statistics
 import re
+from datetime import date,timedelta
 #helpers/standardisations
-def sold_to_active(sold_list):
-    items=[]
-    for item in sold_list:
-        items.append({
-            "title":item["title"],
-            "price":{"value":str(item["totalPrice"])},
-            "itemWebUrl":item["url"],
-            "endedAt":item["endedAt"],
-            "categoryId":item["categoryId"],
-            "condition":item["condition"]
-        })
-    return {"itemSummaries":items}
+soldwindow=30
 def showremoved(before,after):
     kept=[]
     for item in after["itemSummaries"]:
@@ -20,21 +10,52 @@ def showremoved(before,after):
     for item in before["itemSummaries"]:
         if item not in kept:
             print(item["title"],item["price"]["value"])
-def conditionfix(conditionId):
-    if conditionId is None:
+def dedupe(data):
+    seen=[]
+    unique=[]
+    for item in data["itemSummaries"]:
+        if item["listingId"] not in seen:
+            seen.append(item["listingId"])
+            unique.append(item)
+    data["itemSummaries"]=unique
+    return data
+def withinwindow(data):
+    cutoff=(date.today()-timedelta(days=soldwindow)).isoformat()
+    recent=[]
+    for item in data["itemSummaries"]:
+        if item["endedAt"]>=cutoff:
+            recent.append(item)
+    data["itemSummaries"]=recent
+    return data
+def conditionfix(condition):
+    if condition is None:
         return None
-    conditionId=int(conditionId)
-    if conditionId in (1000,1750):
+    text=str(condition).lower()
+    if "new" in text:
         return "New"
-    if conditionId==1500:
+    if "open" in text:
         return "Opened"
-    if conditionId in (2750,2990,4000,3000):
-        return "Used"
-    if conditionId in (2000, 2010, 2020, 2030, 2500):
+    if "refurbished" in text:
         return "Refurbished"
-    if conditionId in (5000, 6000, 7000):
-        return None
+    if "used" in text or "owned" in text:
+        return "Used"
     return None
+def conditionunfix(condition):
+    if condition=="Used":
+        return [2000, 2010, 2020, 2030, 2500]
+    if condition=="Refurbished":
+        return [5000, 6000, 7000]
+    if condition=="Opened":
+        return [1500]
+    if condition=="New":
+        return [1000,1750]
+def generate_ebay_url(query,conditions):
+    itemIds=[]
+    for condition in conditions:
+        itemIds.extend(conditionunfix(condition))
+    conditionstring="%7C".join(str(id)for id in itemIds)
+    query=query.replace(" ","+")
+    return  f"https://www.ebay.co.uk/sch/i.html?_nkw={query}&_sacat=9355&LH_ItemCondition={conditionstring}&LH_Sold=1&LH_Complete=1&_oaa=1&_dcat=9355"
 #calculations
 def totalcost(item):
     price=float(item["price"]["value"])
